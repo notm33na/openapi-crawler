@@ -1,0 +1,4050 @@
+[
+  {
+    "id": "github:0010aor/GraphTreeVisualizer/frontend/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/0010aor/GraphTreeVisualizer/main/frontend/openapi.json",
+    "title": "Graph Tree",
+    "oas_version": "3.1.0",
+    "latest_version": "0.1.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:24.603Z",
+    "status": "active",
+    "content_hash": "5df14ef966a3e3cd74733ee030a9b15a0df939aa7f3ee3e9cd54b6137c1eba5c",
+    "etag": "W/\"18bc755fc781e9ebfe6fc6699ac1e3ca16b4dd5dc191730ae1653d4ce168d49f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "5df14ef966a3e3cd74733ee030a9b15a0df939aa7f3ee3e9cd54b6137c1eba5c",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:24.603Z"
+      }
+    ]
+  },
+  {
+    "id": "github:5GZORRO/slice-manager/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/5GZORRO/slice-manager/main/openapi.yaml",
+    "title": "Slice Manager API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0",
+    "description": "This API provides interaction between the 5GZORRO platform and the Slice Manager.",
+    "servers": [
+      "/api/v1.0"
+    ],
+    "tags": [
+      "User",
+      "Edge/Cloud Compute Resource",
+      "Edge/Cloud Network Resource",
+      "Radio Access Network Resource",
+      "Resource Telemetry",
+      "Edge/Cloud Compute Chunk",
+      "Edge/Cloud Network Chunk",
+      "Radio Access Network Chunk",
+      "Network Slice (collection of chunks)",
+      "Radio Service"
+    ],
+    "paths_count": 54,
+    "fetched_at": "2026-05-19T01:40:22.021Z",
+    "status": "active",
+    "content_hash": "41071536e88eb78a08418eef73cc6b2bfe44dc71ac161c23f3cfa84fd7ab96b5",
+    "etag": "W/\"a6cbb5aa12cc78e60940f194ce5b6d35c5fdaae23e75fb70ef27ba2b35d0d6ba\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "41071536e88eb78a08418eef73cc6b2bfe44dc71ac161c23f3cfa84fd7ab96b5",
+        "paths_delta": 54,
+        "recorded_at": "2026-05-19T01:40:22.021Z"
+      }
+    ]
+  },
+  {
+    "id": "github:APIs-guru/openapi-directory/APIs/azure.com/cognitiveservices-LUIS-Runtime/v2.0 preview/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/azure.com/cognitiveservices-LUIS-Runtime/v2.0 preview/swagger.yaml",
+    "title": "Language Understanding Intelligent Service (LUIS) Endpoint API for running predictions and extracting user intentions and entities from utterances.",
+    "oas_version": "2.0",
+    "latest_version": "v2.0 preview",
+    "description": "",
+    "servers": [
+      "https://azure.local/luis/v2.0/apps"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:26.820Z",
+    "status": "active",
+    "content_hash": "4062214ed8f1055731d5c79b8e6628242a97ddecd6387f41da576b11cdcbe1cb",
+    "etag": "W/\"a8e944a7cedde102870dd83991ebdedc3f0b57c2e4eb09c6f214328289ee0e79\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v2.0 preview",
+        "hash": "4062214ed8f1055731d5c79b8e6628242a97ddecd6387f41da576b11cdcbe1cb",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:26.820Z"
+      }
+    ]
+  },
+  {
+    "id": "github:APIs-guru/openapi-directory/APIs/googleapis.com/gmail/v1/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/googleapis.com/gmail/v1/openapi.yaml",
+    "title": "Gmail API",
+    "oas_version": "3.0.0",
+    "latest_version": "v1",
+    "description": "The Gmail API lets you view and manage Gmail mailbox data like threads, messages, and labels.",
+    "servers": [
+      "https://gmail.googleapis.com/"
+    ],
+    "tags": [
+      "users"
+    ],
+    "paths_count": 49,
+    "fetched_at": "2026-05-19T01:40:22.147Z",
+    "status": "active",
+    "content_hash": "041154c430d2d9654032888d0d9b2a7357b5b6272b1c8194419719fe5f9348ce",
+    "etag": "W/\"de1650015a1f9db0cd5dc7c063a06ce2985eebfe1ae19869c4331d82b56e201c\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v1",
+        "hash": "041154c430d2d9654032888d0d9b2a7357b5b6272b1c8194419719fe5f9348ce",
+        "paths_delta": 49,
+        "recorded_at": "2026-05-19T01:40:22.147Z"
+      }
+    ]
+  },
+  {
+    "id": "github:APIs-guru/openapi-directory/APIs/ip2location.io/1.0/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/ip2location.io/1.0/openapi.yaml",
+    "title": "IP2Location.io IP Geolocation API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0",
+    "description": "IP2Location.io IP Geolocation API provides RESTful API to obtain visitors’ geolocation information such as country, region, district, city, latitude & longitude, ZIP code, time zone, ASN, ISP, domain, net speed, IDD code, area code, weather station data, MNC, MCC, mobile brand, elevation, usage type",
+    "servers": [
+      "https://api.ip2location.io"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:21.704Z",
+    "status": "active",
+    "content_hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+    "etag": "W/\"3870d7b54ae8dcd7d580a1d42b06704cf05c9e4d5bf7413e7eacf377f568b9dd\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:21.704Z"
+      }
+    ]
+  },
+  {
+    "id": "github:APIs-guru/openapi-directory/APIs/polygon.io/1.0.0/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/polygon.io/1.0.0/swagger.yaml",
+    "title": "Polygon",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "The future of fintech.",
+    "servers": [
+      "https://api.polygon.io/"
+    ],
+    "tags": [],
+    "paths_count": 10,
+    "fetched_at": "2026-05-19T01:40:24.925Z",
+    "status": "active",
+    "content_hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
+    "etag": "W/\"764edb36d17edd33b5a2568a4c8f6da7db8f11d00f2f92b08e50cb75d0780082\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
+        "paths_delta": 10,
+        "recorded_at": "2026-05-19T01:40:24.925Z"
+      }
+    ]
+  },
+  {
+    "id": "github:APIs-guru/openapi-directory/APIs/prss.org/2.0.0/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/prss.org/2.0.0/openapi.yaml",
+    "title": "ContentDepot",
+    "oas_version": "3.0.3",
+    "latest_version": "2.0.0",
+    "description": "ContentDepot hosts a range of API’s that allow clients to manage, discover, and obtain content. The API spans many parts of the ContentDepot functionality including MetaPub (a.k.a. metadata distribution) and content management.\n\n## MetaPub\n\nMetaPub collects, normalizes and distributes publicly avail",
+    "servers": [],
+    "tags": [
+      "RadioDNS",
+      "CD Drive",
+      "Broadcast Services",
+      "Spot Insertions",
+      "Programs",
+      "Episodes",
+      "Segments",
+      "Pieces",
+      "MetaPub",
+      "Spots"
+    ],
+    "paths_count": 26,
+    "fetched_at": "2026-05-19T01:40:22.511Z",
+    "status": "active",
+    "content_hash": "fc57f3196a35b8e0ee5c089a22692e0eec426b77f926ff894836633b6e2db88b",
+    "etag": "W/\"818c0e918a7fe1f5b1d0697139c626948a599642addc39b694abd9189e874371\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0.0",
+        "hash": "fc57f3196a35b8e0ee5c089a22692e0eec426b77f926ff894836633b6e2db88b",
+        "paths_delta": 26,
+        "recorded_at": "2026-05-19T01:40:22.512Z"
+      }
+    ]
+  },
+  {
+    "id": "github:APIs-guru/openapi-directory/APIs/zalando.com/v1.0/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/zalando.com/v1.0/swagger.yaml",
+    "title": "Zalando Shop",
+    "oas_version": "2.0",
+    "latest_version": "v1.0",
+    "description": "The shop API empowers developers to build amazing new apps or websites using Zalando shop data and services.",
+    "servers": [
+      "https://api.zalando.com/"
+    ],
+    "tags": [],
+    "paths_count": 20,
+    "fetched_at": "2026-05-19T01:40:26.595Z",
+    "status": "active",
+    "content_hash": "b7088a3d53a7738258621e3ee8fef6d623f7ad7e21b175e3b9bde54880660971",
+    "etag": "W/\"fb9e1dd5d5d71b6307138c07f51ebfe88dccc91c339c7219c442b51db9167763\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v1.0",
+        "hash": "b7088a3d53a7738258621e3ee8fef6d623f7ad7e21b175e3b9bde54880660971",
+        "paths_delta": 20,
+        "recorded_at": "2026-05-19T01:40:26.595Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Abdelrhman1020/hospital-system/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Abdelrhman1020/hospital-system/main/swagger.yaml",
+    "title": "Hospital System API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API documentation for Hospital System project",
+    "servers": [
+      "http://localhost:5000/api"
+    ],
+    "tags": [],
+    "paths_count": 9,
+    "fetched_at": "2026-05-19T01:40:25.136Z",
+    "status": "active",
+    "content_hash": "3395af8c4fbbd2341796c63fa43b2d44a3b71a3e1b86ad1143bf9357d7882bac",
+    "etag": "W/\"c9b80a062b42c2db6fe4d678b48a63bb879cf2c7931bf23b1a99df1f4f151db7\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "3395af8c4fbbd2341796c63fa43b2d44a3b71a3e1b86ad1143bf9357d7882bac",
+        "paths_delta": 9,
+        "recorded_at": "2026-05-19T01:40:25.136Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Abenezer-A/Abenezer_Alemayehu_AXUMxINSA_Challenge/public/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/Abenezer-A/Abenezer_Alemayehu_AXUMxINSA_Challenge/main/public/openapi.json",
+    "title": "PC Repair Support Desk API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API documentation for the vulnerable Support Desk application. Focus on Challenge #11 (Contact Form).",
+    "servers": [
+      "http://localhost:8000"
+    ],
+    "tags": [],
+    "paths_count": 7,
+    "fetched_at": "2026-05-19T01:40:24.586Z",
+    "status": "active",
+    "content_hash": "924f692cc7f6496eb09badf44ae7fcde31c5f4f5b6fce4b3c3575321ca4e39f3",
+    "etag": "W/\"31ad0c4a92ff40737f7fa0c2fac35e1127e6eca0c9d5ebf588289d2ab524bacc\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "924f692cc7f6496eb09badf44ae7fcde31c5f4f5b6fce4b3c3575321ca4e39f3",
+        "paths_delta": 7,
+        "recorded_at": "2026-05-19T01:40:24.586Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Ahmed-Raouf-Metwally/Jobs-API/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Ahmed-Raouf-Metwally/Jobs-API/main/swagger.yaml",
+    "title": "Jobs API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0",
+    "description": "",
+    "servers": [
+      "https://jobs-api-production-642a.up.railway.app/api/v1",
+      "http://localhost:3000/api/v1"
+    ],
+    "tags": [
+      "Auth",
+      "Jobs"
+    ],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:25.858Z",
+    "status": "active",
+    "content_hash": "f4954a9d0ace968236924feaecddb63f893dfe0cd4c29cdaa77fe11c09558938",
+    "etag": "W/\"fcc4abdf0ea9350eaccc001c79064daf23e93580bc3ac9d9067a095fb397db0f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "f4954a9d0ace968236924feaecddb63f893dfe0cd4c29cdaa77fe11c09558938",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:25.858Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Akkudoktor-EOS/EOS/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/Akkudoktor-EOS/EOS/main/openapi.json",
+    "title": "Akkudoktor-EOS",
+    "oas_version": "3.1.0",
+    "latest_version": "v0.3.0.dev2604141105859917",
+    "description": "This project provides a comprehensive solution for simulating and optimizing an energy system based on renewable energy sources. With a focus on photovoltaic (PV) systems, battery storage (batteries), load management (consumer requirements), heat pumps, electric vehicles, and consideration of electr",
+    "servers": [],
+    "tags": [],
+    "paths_count": 39,
+    "fetched_at": "2026-05-19T01:40:23.961Z",
+    "status": "active",
+    "content_hash": "5418e5bae8bc78949ce4e5acc251e1eba6d59da82f9be7f0605d9c4c8bb7d256",
+    "etag": "W/\"7e72661c5f8485fa700ca327cb7e66751aa0e215c14110f114e66167a5f17b3c\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v0.3.0.dev2604141105859917",
+        "hash": "5418e5bae8bc78949ce4e5acc251e1eba6d59da82f9be7f0605d9c4c8bb7d256",
+        "paths_delta": 39,
+        "recorded_at": "2026-05-19T01:40:23.961Z"
+      }
+    ]
+  },
+  {
+    "id": "github:As1i1/AndroidHW3/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/As1i1/AndroidHW3/main/swagger.yaml",
+    "title": "API приложения \"DOLG\"",
+    "oas_version": "2.0",
+    "latest_version": "0.1",
+    "description": "Интерфейс управления приложения \"DOLG\"",
+    "servers": [
+      "http://localhost:8080/v1"
+    ],
+    "tags": [
+      "user",
+      "debt"
+    ],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:25.546Z",
+    "status": "active",
+    "content_hash": "09bbc32406ab8ceabd1d57fe01bbf7af10116cfc6a6e60c0a3de03c539508f84",
+    "etag": "W/\"cc5f6c6087dc8405d5ffc7f909cc5e3ec5f5b9a34a104044d9436a16b7e52765\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1",
+        "hash": "09bbc32406ab8ceabd1d57fe01bbf7af10116cfc6a6e60c0a3de03c539508f84",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:25.546Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Azure/azure-rest-api-specs/specification/liftrweightsandbiases/resource-manager/Microsoft.WeightsAndBiases/stable/2024-09-18/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/liftrweightsandbiases/resource-manager/Microsoft.WeightsAndBiases/stable/2024-09-18/openapi.json",
+    "title": "Microsoft.WeightsAndBiases management service",
+    "oas_version": "2.0",
+    "latest_version": "2024-09-18",
+    "description": "",
+    "servers": [
+      "https://management.azure.com/"
+    ],
+    "tags": [
+      "Operations",
+      "Instances"
+    ],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:23.952Z",
+    "status": "active",
+    "content_hash": "debe075dfee758e8e6c730de97e84fde8b3e742effdfecd5ca5167deb313e8b2",
+    "etag": "W/\"4465da54744d7133d54fb1681b1fc4c4111c067520b1746a0d94adb75a879fb2\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2024-09-18",
+        "hash": "debe075dfee758e8e6c730de97e84fde8b3e742effdfecd5ca5167deb313e8b2",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:23.952Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Bryand22/SportRadar2/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Bryand22/SportRadar2/main/swagger.yaml",
+    "title": "SportRadar API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API complète pour la gestion des utilisateurs, challenges, activités et statistiques.",
+    "servers": [
+      "http://localhost:5000"
+    ],
+    "tags": [],
+    "paths_count": 6,
+    "fetched_at": "2026-05-19T01:40:25.436Z",
+    "status": "active",
+    "content_hash": "4f3217c0ac71a24528928e68053d88cf1e7375b6fd7e91ac0d3d4e904ea3c68b",
+    "etag": "W/\"fcb38dccf86dd69a05bb67aaccc5f1b4672a9c1dc3752211f49a63ad0ce21298\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "4f3217c0ac71a24528928e68053d88cf1e7375b6fd7e91ac0d3d4e904ea3c68b",
+        "paths_delta": 6,
+        "recorded_at": "2026-05-19T01:40:25.436Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Champion1102/filmi-gpt-backend/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Champion1102/filmi-gpt-backend/main/swagger.yaml",
+    "title": "Authentication API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API for user authentication and management.",
+    "servers": [],
+    "tags": [],
+    "paths_count": 6,
+    "fetched_at": "2026-05-19T01:40:25.091Z",
+    "status": "active",
+    "content_hash": "916aef4ef6f6e7a6fc98b1a63be4e71a5f5a7cbf7268ae22cc4e235d554e3f48",
+    "etag": "W/\"126cc9273e22066c773297304d916e64d2319601e0104e5c3cc315f48fcc9aa1\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "916aef4ef6f6e7a6fc98b1a63be4e71a5f5a7cbf7268ae22cc4e235d554e3f48",
+        "paths_delta": 6,
+        "recorded_at": "2026-05-19T01:40:25.091Z"
+      }
+    ]
+  },
+  {
+    "id": "github:DSRCorporation/full-stack-js-course/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/DSRCorporation/full-stack-js-course/master/swagger.yaml",
+    "title": "Digital Diary",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "This is a sample server for the digital diary, test application for JS courses in VSU.",
+    "servers": [
+      "http://localhost:3000/api"
+    ],
+    "tags": [
+      "students",
+      "classes",
+      "subjects",
+      "marks",
+      "teachers",
+      "users",
+      "security"
+    ],
+    "paths_count": 13,
+    "fetched_at": "2026-05-19T01:40:25.855Z",
+    "status": "active",
+    "content_hash": "f8ec52d5702251d31629f3cd9ee2d4c977e93e68efcdcdb8a764ee01ceb783c9",
+    "etag": "W/\"03f8569f2c4e2475972d1654a114d7784c46ccc3d0a8cb0dfc2ca91c6f5ffa07\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "f8ec52d5702251d31629f3cd9ee2d4c977e93e68efcdcdb8a764ee01ceb783c9",
+        "paths_delta": 13,
+        "recorded_at": "2026-05-19T01:40:25.855Z"
+      }
+    ]
+  },
+  {
+    "id": "github:DataFire/Integrations/integrations/generated/amazonaws_globalaccelerator/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/DataFire/Integrations/master/integrations/generated/amazonaws_globalaccelerator/openapi.json",
+    "title": "AWS Global Accelerator",
+    "oas_version": "2.0",
+    "latest_version": "2018-08-08",
+    "description": "<fullname>AWS Global Accelerator</fullname> <p>This is the <i>AWS Global Accelerator API Reference</i>. This guide is for developers who need detailed information about AWS Global Accelerator API actions, data types, and errors. For more information about Global Accelerator features, see the <a href",
+    "servers": [
+      "http://globalaccelerator.us-east-1.amazonaws.com/"
+    ],
+    "tags": [],
+    "paths_count": 47,
+    "fetched_at": "2026-05-19T01:40:24.021Z",
+    "status": "active",
+    "content_hash": "ff5acb395687320c6620c5296b4972559dd5772a0b7d92a350c93afa41861967",
+    "etag": "W/\"3c9f3a7a7ac844bb02fb8a236c7de701b9c3afcd164417d5191b21485061bb65\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2018-08-08",
+        "hash": "ff5acb395687320c6620c5296b4972559dd5772a0b7d92a350c93afa41861967",
+        "paths_delta": 47,
+        "recorded_at": "2026-05-19T01:40:24.021Z"
+      }
+    ]
+  },
+  {
+    "id": "github:FinTechTonic/traderX/trade-processor/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/FinTechTonic/traderX/main/trade-processor/openapi.yaml",
+    "title": "Position Service - TraderX",
+    "oas_version": "3.0.1",
+    "latest_version": "1.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:22.037Z",
+    "status": "active",
+    "content_hash": "c8b2bf2e40cf17fb3aa9a6bbbfd8336e4b61a07b6e9c237744c3c26014fd21ca",
+    "etag": "W/\"ffedd97cc16891b641774a8ce03ce09c67793ed8dc21f826fd2d6ca061ede9d5\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "c8b2bf2e40cf17fb3aa9a6bbbfd8336e4b61a07b6e9c237744c3c26014fd21ca",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:22.037Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Fish-Place/fp-swagger/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Fish-Place/fp-swagger/main/swagger.yaml",
+    "title": "Fish Place",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "Документация REST API для приложения Рыбное место (Fish Place)",
+    "servers": [],
+    "tags": [],
+    "paths_count": 53,
+    "fetched_at": "2026-05-19T01:40:25.563Z",
+    "status": "active",
+    "content_hash": "d99c8f12ad48e785fcb47a47e9c305220cc5969274bd9a853d94e44be5aa48af",
+    "etag": "W/\"01b9ea91fae03522382040f5bfa7bce8544891f21f1961166e179bb6e46845c3\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "d99c8f12ad48e785fcb47a47e9c305220cc5969274bd9a853d94e44be5aa48af",
+        "paths_delta": 53,
+        "recorded_at": "2026-05-19T01:40:25.563Z"
+      }
+    ]
+  },
+  {
+    "id": "github:GnotAI/skilltrade/docs/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/GnotAI/skilltrade/main/docs/swagger.yaml",
+    "title": "SkillTrade API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API documentation for skill trade backend endpoints",
+    "servers": [
+      "http://skilltrade-594j.onrender.com/"
+    ],
+    "tags": [],
+    "paths_count": 10,
+    "fetched_at": "2026-05-19T01:40:27.135Z",
+    "status": "active",
+    "content_hash": "6325031bdf98a02e1b61b445ce1d100ef3c1fa2425ed573a1243aed3954d9c03",
+    "etag": "W/\"3f4afaeeb8b08a91ba0ea1f7cde92ca72fff887ca9b6c042f6f42c280ae96a28\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "6325031bdf98a02e1b61b445ce1d100ef3c1fa2425ed573a1243aed3954d9c03",
+        "paths_delta": 10,
+        "recorded_at": "2026-05-19T01:40:27.135Z"
+      }
+    ]
+  },
+  {
+    "id": "github:HITS-Bank/bank-mono-repo/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/HITS-Bank/bank-mono-repo/master/swagger.yaml",
+    "title": "Swagger (свэг) - OpenAPI 3.0",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0",
+    "description": "",
+    "servers": [],
+    "tags": [
+      "Users",
+      "Bank Account",
+      "Loan",
+      "Personalization",
+      "Notification"
+    ],
+    "paths_count": 29,
+    "fetched_at": "2026-05-19T01:40:25.553Z",
+    "status": "active",
+    "content_hash": "a3781fde47d4513ff59b2394d7f217024c83a43e710e3f31f2e019aa1e909863",
+    "etag": "W/\"cac532f4f6f12e1282a423f9f277c71c28d50096120e28b288334056c05edc5f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "a3781fde47d4513ff59b2394d7f217024c83a43e710e3f31f2e019aa1e909863",
+        "paths_delta": 29,
+        "recorded_at": "2026-05-19T01:40:25.553Z"
+      }
+    ]
+  },
+  {
+    "id": "github:HoudaMallem/code123/doc/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/HoudaMallem/code123/main/doc/openapi.json",
+    "title": "code123 code challenge",
+    "oas_version": "3.0.3",
+    "latest_version": "v1",
+    "description": "This is the openapi doc for code123 code challenge Rest api",
+    "servers": [
+      "http://localhost:4000/api/v1"
+    ],
+    "tags": [],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:24.302Z",
+    "status": "active",
+    "content_hash": "67470277e24290914157de5c1307ace57ce34784d9e57ef481b4a0130e85a4eb",
+    "etag": "W/\"a4eebe695b17f499c78afe59317f33fd96f7bb0f36cdff35aae70fb9fdef20e4\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v1",
+        "hash": "67470277e24290914157de5c1307ace57ce34784d9e57ef481b4a0130e85a4eb",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:24.302Z"
+      }
+    ]
+  },
+  {
+    "id": "github:IbtissamBBK/ArgentBankNew/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/IbtissamBBK/ArgentBankNew/main/swagger.yaml",
+    "title": "Bank Argent API documentation",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "Contains all available API endpoints in this codebase, including User and Transactions modules.",
+    "servers": [
+      "http://localhost:3001/api/v1"
+    ],
+    "tags": [],
+    "paths_count": 5,
+    "fetched_at": "2026-05-19T01:40:25.221Z",
+    "status": "active",
+    "content_hash": "3d0617522d6a5a5e82c876df6d841fba171e9b5a8ec243a3e5e46fb437dcbfd4",
+    "etag": "W/\"324ca8db2b0c3ed6fe1b651fc53aa49acf38989d14e9922b586e0dc7a08de9a9\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "3d0617522d6a5a5e82c876df6d841fba171e9b5a8ec243a3e5e46fb437dcbfd4",
+        "paths_delta": 5,
+        "recorded_at": "2026-05-19T01:40:25.221Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Irere123/vsnip/api/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/Irere123/vsnip/master/api/openapi.json",
+    "title": "VSnip API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API for VSnip application",
+    "servers": [
+      "http://localhost:3001"
+    ],
+    "tags": [],
+    "paths_count": 11,
+    "fetched_at": "2026-05-19T01:40:24.313Z",
+    "status": "active",
+    "content_hash": "9e16eb77cb98916568c33aa4bd1f40f12cc0254fe301b926565c770556f23ae6",
+    "etag": "W/\"8adbf84476182dafc39b12df1a1a80d9ad0b339545872256a5037fa19f876945\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "9e16eb77cb98916568c33aa4bd1f40f12cc0254fe301b926565c770556f23ae6",
+        "paths_delta": 11,
+        "recorded_at": "2026-05-19T01:40:24.313Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Jean-Beru/docker-swagger-cli/test/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Jean-Beru/docker-swagger-cli/master/test/swagger.yaml",
+    "title": "Swagger Petstore",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "This is a sample server Petstore server.  You can find out more about     Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).      For this sample, you can use the api key `special-key` to test the authorization     filters.",
+    "servers": [
+      "https://petstore.swagger.io/v2",
+      "http://petstore.swagger.io/v2"
+    ],
+    "tags": [
+      "pet",
+      "store",
+      "user"
+    ],
+    "paths_count": 14,
+    "fetched_at": "2026-05-19T01:40:26.224Z",
+    "status": "active",
+    "content_hash": "4d2b45f03dac0fae8e9ec5aa8c87b64b62f30de1cb03bb5458bb6fc23dc5a1df",
+    "etag": "W/\"3e7e8b7bacbbc1f26ba9106216aecb157da85df07fd724e799f7d455c609b154\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "4d2b45f03dac0fae8e9ec5aa8c87b64b62f30de1cb03bb5458bb6fc23dc5a1df",
+        "paths_delta": 14,
+        "recorded_at": "2026-05-19T01:40:26.224Z"
+      }
+    ]
+  },
+  {
+    "id": "github:KiboSoftware/java-rest-sdk/kibocommerce/settings/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/KiboSoftware/java-rest-sdk/main/kibocommerce/settings/api/openapi.yaml",
+    "title": "Kibo SiteSettings Service",
+    "oas_version": "3.0.1",
+    "latest_version": "",
+    "description": "OpenAPI Spec for Kibo SiteSettings Service",
+    "servers": [
+      "https://{tenantPodHost}/api",
+      "https://t{tenantId}.{env}.mozu.com/api",
+      "https://t{tenantId}-s{siteId}.{env}.mozu.com/api",
+      "https://home.mozu.com/api",
+      "https://t{tenantId}.{env}.euw1.kibocommerce.com/api",
+      "https://t{tenantId}-s{siteId}.{env}.euw1.kibocommerce.com/api",
+      "https://home.euw1.kibocommerce.com/api"
+    ],
+    "tags": [],
+    "paths_count": 15,
+    "fetched_at": "2026-05-19T01:40:23.662Z",
+    "status": "active",
+    "content_hash": "0ae8eea3a4e7a95ec8c4151b3c46a2df4f11455480278c3e287c5d4ca5ac6ef1",
+    "etag": "W/\"3c22ace10553a8a842100a7cd0c5eb828b8f6a5ba074fff6895df8ae3e271194\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "",
+        "hash": "0ae8eea3a4e7a95ec8c4151b3c46a2df4f11455480278c3e287c5d4ca5ac6ef1",
+        "paths_delta": 15,
+        "recorded_at": "2026-05-19T01:40:23.662Z"
+      }
+    ]
+  },
+  {
+    "id": "github:La-Clique-qui-Recycle/RecyClique/api/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/La-Clique-qui-Recycle/RecyClique/main/api/openapi.json",
+    "title": "Recyclic API",
+    "oas_version": "3.1.0",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 58,
+    "fetched_at": "2026-05-19T01:40:24.522Z",
+    "status": "active",
+    "content_hash": "6bf27f8f379723187a1c7550bf387f7f7e519dfd0241b6c0697ad70453970078",
+    "etag": "W/\"5ef4398759b47b2296c6315e290462af40f7b1f364c1e193f659ef20c8ee04a8\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "6bf27f8f379723187a1c7550bf387f7f7e519dfd0241b6c0697ad70453970078",
+        "paths_delta": 58,
+        "recorded_at": "2026-05-19T01:40:24.522Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Lemonarque/P11/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Lemonarque/P11/master/swagger.yaml",
+    "title": "Bank Argent API documentation",
+    "oas_version": "2.0",
+    "latest_version": "2.0.0",
+    "description": "Contains all available API endpoints in this codebase",
+    "servers": [
+      "http://localhost:3001/api/v2"
+    ],
+    "tags": [],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:25.216Z",
+    "status": "active",
+    "content_hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+    "etag": "W/\"19064384009402f7456f4913be2befd91c29cd72588864f2445764596735aa2c\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0.0",
+        "hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:25.216Z"
+      }
+    ]
+  },
+  {
+    "id": "github:LoriMarshall/openapidir/APIs/ip2location.io/1.0/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/LoriMarshall/openapidir/main/APIs/ip2location.io/1.0/openapi.yaml",
+    "title": "IP2Location.io IP Geolocation API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0",
+    "description": "IP2Location.io IP Geolocation API provides RESTful API to obtain visitors’ geolocation information such as country, region, district, city, latitude & longitude, ZIP code, time zone, ASN, ISP, domain, net speed, IDD code, area code, weather station data, MNC, MCC, mobile brand, elevation, usage type",
+    "servers": [
+      "https://api.ip2location.io"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:21.699Z",
+    "status": "active",
+    "content_hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+    "etag": "W/\"3870d7b54ae8dcd7d580a1d42b06704cf05c9e4d5bf7413e7eacf377f568b9dd\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:21.699Z"
+      }
+    ]
+  },
+  {
+    "id": "github:LoriMarshall/openapidir/APIs/polygon.io/1.0.0/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/LoriMarshall/openapidir/main/APIs/polygon.io/1.0.0/swagger.yaml",
+    "title": "Polygon",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "The future of fintech.",
+    "servers": [
+      "https://api.polygon.io/"
+    ],
+    "tags": [],
+    "paths_count": 10,
+    "fetched_at": "2026-05-19T01:40:25.973Z",
+    "status": "active",
+    "content_hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
+    "etag": "W/\"764edb36d17edd33b5a2568a4c8f6da7db8f11d00f2f92b08e50cb75d0780082\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
+        "paths_delta": 10,
+        "recorded_at": "2026-05-19T01:40:25.973Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Luphaestus/DUCC-Website/public/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/Luphaestus/DUCC-Website/main/public/openapi.json",
+    "title": "DUCC Website API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API documentation for the Durham University Canoe Club website.",
+    "servers": [
+      "http://localhost:3000"
+    ],
+    "tags": [],
+    "paths_count": 76,
+    "fetched_at": "2026-05-19T01:40:24.324Z",
+    "status": "active",
+    "content_hash": "b3b33f8522d32630e51905bbb7bedb06bb14d4d43ee1a164a12dda1b9ba70d21",
+    "etag": "W/\"ac93d7400a9b7e5877c2b2373ab8037b6623663394783c39cb649af664cbe1e7\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "b3b33f8522d32630e51905bbb7bedb06bb14d4d43ee1a164a12dda1b9ba70d21",
+        "paths_delta": 76,
+        "recorded_at": "2026-05-19T01:40:24.324Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Matthieu83600/ArgentBank-FrontEnd/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Matthieu83600/ArgentBank-FrontEnd/main/swagger.yaml",
+    "title": "Bank Argent API documentation",
+    "oas_version": "2.0",
+    "latest_version": "2.0.0",
+    "description": "Contains all available API endpoints in this codebase",
+    "servers": [
+      "http://localhost:3001/api/v2"
+    ],
+    "tags": [],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:26.351Z",
+    "status": "active",
+    "content_hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+    "etag": "W/\"19064384009402f7456f4913be2befd91c29cd72588864f2445764596735aa2c\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0.0",
+        "hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:26.351Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Netherium/neth-express-api-ts/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/Netherium/neth-express-api-ts/master/swagger.yaml",
+    "title": "Neth-Express-Api-TS",
+    "oas_version": "3.0.1",
+    "latest_version": "0.3.5",
+    "description": "<h3 align=\"center\">A REST Api written in Typescript using Express</h3> <p align=\"center\">Provides JWT Bearer Token authentication with  access control lists<br> Protected routes will need a `jwt-token`<br> Full repo on [github](https://github.com/Netherium/neth-express-api-ts)<br> Made with ❤ by [Ne",
+    "servers": [
+      "http://localhost:4000/api"
+    ],
+    "tags": [
+      "Auth",
+      "Users",
+      "Roles",
+      "ResourcePermissions",
+      "MediaObjects",
+      "Books"
+    ],
+    "paths_count": 14,
+    "fetched_at": "2026-05-19T01:40:26.219Z",
+    "status": "active",
+    "content_hash": "fccdf1b192d16dfc5b072ad2ee7472879f39cb1a26c5286f79293bde059d0d43",
+    "etag": "W/\"e993fbce3778d51a0f98bbae7fbb37a5c9c564954103d9b518900228459328da\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.3.5",
+        "hash": "fccdf1b192d16dfc5b072ad2ee7472879f39cb1a26c5286f79293bde059d0d43",
+        "paths_delta": 14,
+        "recorded_at": "2026-05-19T01:40:26.219Z"
+      }
+    ]
+  },
+  {
+    "id": "github:OpenReqEU/mallikas/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/OpenReqEU/mallikas/master/swagger.yaml",
+    "title": "Mallikas",
+    "oas_version": "2.0",
+    "latest_version": "1.11",
+    "description": "Mallikas is a database service in the dependency engine of OpenReq infrastructure serving primarily the Milla service. Mallikas takes care of storing OpenReq relevant data in OpenReq specific format. While Mallikas has public endpoints, the endpoints of Mallikas should be accessed only through other",
+    "servers": [],
+    "tags": [
+      "mallikas-controller"
+    ],
+    "paths_count": 9,
+    "fetched_at": "2026-05-19T01:40:25.244Z",
+    "status": "active",
+    "content_hash": "6f7e2c68103206981b120baf9759b33e3a38216b2283c8a2add6f125fc9a423b",
+    "etag": "W/\"434340d406131bc2c80542ac8e84a55791de00c3356737a2440d110c57ffd138\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.11",
+        "hash": "6f7e2c68103206981b120baf9759b33e3a38216b2283c8a2add6f125fc9a423b",
+        "paths_delta": 9,
+        "recorded_at": "2026-05-19T01:40:25.244Z"
+      }
+    ]
+  },
+  {
+    "id": "github:PgBiel/jabuty-reviewers-quest/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/PgBiel/jabuty-reviewers-quest/main/swagger.yaml",
+    "title": "Jabuty Reviewer's Quest Backend API",
+    "oas_version": "3.0.3",
+    "latest_version": "0.1.0",
+    "description": "This is the API exposed by Jabuty's backend. The frontend must make requests to this API in order to access the database. The frontend works as a SPA (Single-Page Application) and therefore is responsible for page routing, so the backend is truly only responsible for the API (and not for redirecting",
+    "servers": [
+      "https://localhost:8000/api"
+    ],
+    "tags": [
+      "games",
+      "user"
+    ],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:25.861Z",
+    "status": "active",
+    "content_hash": "98e602173b14b9d22b671da7a8aa8393b9e7183d5a36fb8c2ed035d8d2cb818f",
+    "etag": "W/\"7373a094ce679d75112b71c9326b0f9fc43e2c6072e283c9b23f5dc15128fa2c\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "98e602173b14b9d22b671da7a8aa8393b9e7183d5a36fb8c2ed035d8d2cb818f",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:25.861Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Port39/go-drink/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/Port39/go-drink/master/openapi.yaml",
+    "title": "go-drink API",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "Go buy something to drink!",
+    "servers": [
+      "http://localhost:8080"
+    ],
+    "tags": [],
+    "paths_count": 20,
+    "fetched_at": "2026-05-19T01:40:23.243Z",
+    "status": "active",
+    "content_hash": "16b1194ba5d86094e7ab0fef53264325ef91f25c5d7467235fabb1025a48b829",
+    "etag": "W/\"e3d19e0eb55f77ef0b7c1eff1474c6d39e7565373e8a9e92c2e4050554f98694\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "16b1194ba5d86094e7ab0fef53264325ef91f25c5d7467235fabb1025a48b829",
+        "paths_delta": 20,
+        "recorded_at": "2026-05-19T01:40:23.243Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Prernagupta110/continuous_deployment/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/Prernagupta110/continuous_deployment/master/openapi.yaml",
+    "title": "FastAPI",
+    "oas_version": "3.1.0",
+    "latest_version": "0.1.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:22.648Z",
+    "status": "active",
+    "content_hash": "dc24a5ece800132779863e93a34708b3780005773975c431347e7866ab5708cb",
+    "etag": "W/\"bbba0372e678c7c9b1a152fafdb427644b91c146c5097ae21d540284ab6545ad\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "dc24a5ece800132779863e93a34708b3780005773975c431347e7866ab5708cb",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:22.648Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Qwizi/cs2-battle-bot-api/src/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/Qwizi/cs2-battle-bot-api/dev/src/openapi.json",
+    "title": "cs2-battle-bot-api",
+    "oas_version": "3.0.3",
+    "latest_version": "0.0.35",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 29,
+    "fetched_at": "2026-05-19T01:40:23.997Z",
+    "status": "active",
+    "content_hash": "751d58f01eb5bfe232e7fd6e24bc6cd1810c2478f93c44278a61000ae8a8d602",
+    "etag": "W/\"f08c5777eac33fbabfb16ca8b6ee4eec252f39b0abbd56c84610fe4e58add92b\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.0.35",
+        "hash": "751d58f01eb5bfe232e7fd6e24bc6cd1810c2478f93c44278a61000ae8a8d602",
+        "paths_delta": 29,
+        "recorded_at": "2026-05-19T01:40:23.997Z"
+      }
+    ]
+  },
+  {
+    "id": "github:RafaelAPNascimento/LogisticTest/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/RafaelAPNascimento/LogisticTest/master/swagger.yaml",
+    "title": "LOL Foods API",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "This is a sample server Logistic API.",
+    "servers": [
+      "https://logistic-app/api",
+      "http://logistic-app/api"
+    ],
+    "tags": [],
+    "paths_count": 7,
+    "fetched_at": "2026-05-19T01:40:25.238Z",
+    "status": "active",
+    "content_hash": "740ad786c37d35ebe2e5732ca07eacf979d6c081e3797c024e86c5d8c722c350",
+    "etag": "W/\"619a30bac3c2574943d570a89c5e308a0e150ea24b4c7ea65106d636446e2d32\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "740ad786c37d35ebe2e5732ca07eacf979d6c081e3797c024e86c5d8c722c350",
+        "paths_delta": 7,
+        "recorded_at": "2026-05-19T01:40:25.238Z"
+      }
+    ]
+  },
+  {
+    "id": "github:SianHH/gost/gost-x/api/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/SianHH/gost/master/gost-x/api/swagger.yaml",
+    "title": "Documentation of Web API.",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 34,
+    "fetched_at": "2026-05-19T01:40:26.234Z",
+    "status": "active",
+    "content_hash": "dda5d5655424e40d489a66eedac5c54eb2b432c82fc6ec69849aa152770ea91b",
+    "etag": "W/\"9d104ca73555561468749a67eb46f549fbd048d806e406c6647d6b05f0f4f6a5\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "dda5d5655424e40d489a66eedac5c54eb2b432c82fc6ec69849aa152770ea91b",
+        "paths_delta": 34,
+        "recorded_at": "2026-05-19T01:40:26.234Z"
+      }
+    ]
+  },
+  {
+    "id": "github:TP-ClassConnect-G6/CursosIS2/course-service/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/TP-ClassConnect-G6/CursosIS2/main/course-service/api/openapi.yaml",
+    "title": "API de Cursos",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [
+      "https://cursosis2-production.up.railway.app"
+    ],
+    "tags": [
+      "courses",
+      "registrations",
+      "approvals",
+      "auxiliars",
+      "admins",
+      "modules",
+      "task-gateway",
+      "tasks",
+      "exams"
+    ],
+    "paths_count": 48,
+    "fetched_at": "2026-05-19T01:40:22.662Z",
+    "status": "active",
+    "content_hash": "5cf233303c8665c62e57871a4c0a0a3761a17ad108b633158394dfd0d9148a20",
+    "etag": "W/\"4df91a7f39531135f20394bf70351606b62ae79d9be9baee3c028f6d600c59f4\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "5cf233303c8665c62e57871a4c0a0a3761a17ad108b633158394dfd0d9148a20",
+        "paths_delta": 48,
+        "recorded_at": "2026-05-19T01:40:22.662Z"
+      }
+    ]
+  },
+  {
+    "id": "github:TsapkovAlexander/uavdata/uav-parser/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/TsapkovAlexander/uavdata/main/uav-parser/openapi.yaml",
+    "title": "UAV Parser API",
+    "oas_version": "3.1.0",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [
+      "http://localhost:8080"
+    ],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:23.612Z",
+    "status": "active",
+    "content_hash": "eedbdcbe7c6a78eea40461b40fa6bb36975c17459f6f611cdfa67f8713541b56",
+    "etag": "W/\"d299003bc15acb20b955bee1b5c60850852c6f4744fbac1ca38acc1a315a9784\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "eedbdcbe7c6a78eea40461b40fa6bb36975c17459f6f611cdfa67f8713541b56",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:23.612Z"
+      }
+    ]
+  },
+  {
+    "id": "github:Unudelger111/CoffeeHustlers/backend/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/Unudelger111/CoffeeHustlers/main/backend/api/openapi.yaml",
+    "title": "Coffee Ordering App API",
+    "oas_version": "3.0.3",
+    "latest_version": "2.0.0",
+    "description": "API for a multi-coffee shop pre-ordering mobile application",
+    "servers": [
+      "http://localhost:3000"
+    ],
+    "tags": [
+      "User",
+      "Franchises",
+      "Staff",
+      "CoffeeShops",
+      "Menu",
+      "Orders",
+      "Notifications"
+    ],
+    "paths_count": 36,
+    "fetched_at": "2026-05-19T01:40:23.634Z",
+    "status": "active",
+    "content_hash": "005a4cc3ed55dae5e5a97ce8cd365ad098318f029312bf0b374b5e74ac1fc370",
+    "etag": "W/\"636b17254a69b9ac8b4431427c5cd5057b377b45f7f2950fdb1b919cd03dd511\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0.0",
+        "hash": "005a4cc3ed55dae5e5a97ce8cd365ad098318f029312bf0b374b5e74ac1fc370",
+        "paths_delta": 36,
+        "recorded_at": "2026-05-19T01:40:23.634Z"
+      }
+    ]
+  },
+  {
+    "id": "github:VinulaUthsara/SwaggerAdvanceSyncBankATM/reference/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/VinulaUthsara/SwaggerAdvanceSyncBankATM/master/reference/swagger.yaml",
+    "title": "SwaggerAdvanceSync",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "advance sync api with github",
+    "servers": [
+      "https://virtserver.swaggerhub.com/Vinula/SwaggerAdvanceSyncBankATM/1.0.0"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "fetched_at": "2026-05-19T01:40:26.512Z",
+    "status": "active",
+    "content_hash": "760ef385c19257496bd63a0cf8a46c5abe2b6b393930dab7166a66f3709a1f61",
+    "etag": "W/\"e89dce48d414398106ab865eb2b3c8f6724828676d21e820ac87d3daa44d0016\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "760ef385c19257496bd63a0cf8a46c5abe2b6b393930dab7166a66f3709a1f61",
+        "paths_delta": 2,
+        "recorded_at": "2026-05-19T01:40:26.512Z"
+      }
+    ]
+  },
+  {
+    "id": "github:VinulaUthsara/SwaggerAdvanceSyncBankATM/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/VinulaUthsara/SwaggerAdvanceSyncBankATM/master/swagger.yaml",
+    "title": "SwaggerAdvanceSync",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "advance sync api with github",
+    "servers": [
+      "https://virtserver.swaggerhub.com/Vinula/SwaggerAdvanceSyncBankATM/1.0.0"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "fetched_at": "2026-05-19T01:40:25.549Z",
+    "status": "active",
+    "content_hash": "760ef385c19257496bd63a0cf8a46c5abe2b6b393930dab7166a66f3709a1f61",
+    "etag": "W/\"e89dce48d414398106ab865eb2b3c8f6724828676d21e820ac87d3daa44d0016\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "760ef385c19257496bd63a0cf8a46c5abe2b6b393930dab7166a66f3709a1f61",
+        "paths_delta": 2,
+        "recorded_at": "2026-05-19T01:40:25.549Z"
+      }
+    ]
+  },
+  {
+    "id": "github:VisageDvachevsky/Zonix/frontend/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/VisageDvachevsky/Zonix/main/frontend/openapi.json",
+    "title": "Zonix API",
+    "oas_version": "3.1.0",
+    "latest_version": "0.1.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 29,
+    "fetched_at": "2026-05-19T01:40:24.621Z",
+    "status": "active",
+    "content_hash": "268a9f17075c1567da99f1a328fda625570cd9ac8562587443dae44c61985f8b",
+    "etag": "W/\"0aa6ceda0baa3b448a2888b859751ef15a7109044dfbed54a1e41e51e334b4e8\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "268a9f17075c1567da99f1a328fda625570cd9ac8562587443dae44c61985f8b",
+        "paths_delta": 29,
+        "recorded_at": "2026-05-19T01:40:24.621Z"
+      }
+    ]
+  },
+  {
+    "id": "github:WebFuzzing/EvoMaster/core-tests/integration-tests/core-it/src/test/resources/APIs_guru/polygon.io/1.0.0/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/WebFuzzing/EvoMaster/master/core-tests/integration-tests/core-it/src/test/resources/APIs_guru/polygon.io/1.0.0/swagger.yaml",
+    "title": "Polygon",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "The future of fintech.",
+    "servers": [
+      "https://api.polygon.io/"
+    ],
+    "tags": [],
+    "paths_count": 10,
+    "fetched_at": "2026-05-19T01:40:25.999Z",
+    "status": "active",
+    "content_hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
+    "etag": "W/\"764edb36d17edd33b5a2568a4c8f6da7db8f11d00f2f92b08e50cb75d0780082\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
+        "paths_delta": 10,
+        "recorded_at": "2026-05-19T01:40:25.999Z"
+      }
+    ]
+  },
+  {
+    "id": "github:WebFuzzing/fuzzing-nosql/wb-mongo/EvoMaster-mongo/core-it/src/test/resources/APIs_guru/polygon.io/1.0.0/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/WebFuzzing/fuzzing-nosql/main/wb-mongo/EvoMaster-mongo/core-it/src/test/resources/APIs_guru/polygon.io/1.0.0/swagger.yaml",
+    "title": "Polygon",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "The future of fintech.",
+    "servers": [
+      "https://api.polygon.io/"
+    ],
+    "tags": [],
+    "paths_count": 10,
+    "fetched_at": "2026-05-19T01:40:26.033Z",
+    "status": "active",
+    "content_hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
+    "etag": "W/\"764edb36d17edd33b5a2568a4c8f6da7db8f11d00f2f92b08e50cb75d0780082\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
+        "paths_delta": 10,
+        "recorded_at": "2026-05-19T01:40:26.033Z"
+      }
+    ]
+  },
+  {
+    "id": "github:YASAI03/lan-stream/docs/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/YASAI03/lan-stream/main/docs/openapi.json",
+    "title": "lan-stream API",
+    "oas_version": "3.1.0",
+    "latest_version": "0.1.0",
+    "description": "LAN内ウィンドウキャプチャ配信サーバー。Windows Graphics Capture APIでウィンドウをキャプチャし、QOI over WebSocketでストリーミングする。",
+    "servers": [
+      "http://localhost:8080"
+    ],
+    "tags": [
+      "Pages",
+      "Stream",
+      "API"
+    ],
+    "paths_count": 10,
+    "fetched_at": "2026-05-19T01:40:24.319Z",
+    "status": "active",
+    "content_hash": "1fb41912a124d96db3952f74d72ce8a68d61912d905a2b0d54d52629b4fea8e3",
+    "etag": "W/\"68c9994f6f7870a7ab927650767748451f42bde86901b364300f31212bca238e\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "1fb41912a124d96db3952f74d72ce8a68d61912d905a2b0d54d52629b4fea8e3",
+        "paths_delta": 10,
+        "recorded_at": "2026-05-19T01:40:24.319Z"
+      }
+    ]
+  },
+  {
+    "id": "github:adityaghatge/nlp2rest/rule_extractor/APIs-guru/specifications/ip2location.io/1.0/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/adityaghatge/nlp2rest/main/rule_extractor/APIs-guru/specifications/ip2location.io/1.0/openapi.yaml",
+    "title": "IP2Location.io IP Geolocation API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0",
+    "description": "IP2Location.io IP Geolocation API provides RESTful API to obtain visitors’ geolocation information such as country, region, district, city, latitude & longitude, ZIP code, time zone, ASN, ISP, domain, net speed, IDD code, area code, weather station data, MNC, MCC, mobile brand, elevation, usage type",
+    "servers": [
+      "https://api.ip2location.io"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:22.034Z",
+    "status": "active",
+    "content_hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+    "etag": "W/\"3870d7b54ae8dcd7d580a1d42b06704cf05c9e4d5bf7413e7eacf377f568b9dd\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:22.034Z"
+      }
+    ]
+  },
+  {
+    "id": "github:adlnet/elrr-services/docs/api/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/adlnet/elrr-services/main/docs/api/openapi.json",
+    "title": "OpenAPI definition",
+    "oas_version": "3.1.0",
+    "latest_version": "v0",
+    "description": "",
+    "servers": [
+      "http://localhost:8092"
+    ],
+    "tags": [],
+    "paths_count": 42,
+    "fetched_at": "2026-05-19T01:40:24.489Z",
+    "status": "active",
+    "content_hash": "7b206919840c64dfd5e224d995fb46d27fb6a87d7d7159dccd7c251f7b1fa47d",
+    "etag": "W/\"57f270f05ac5644d357e9ed2cb1627b26ec00b41fa21380c29dd89e51b5a200d\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v0",
+        "hash": "7b206919840c64dfd5e224d995fb46d27fb6a87d7d7159dccd7c251f7b1fa47d",
+        "paths_delta": 42,
+        "recorded_at": "2026-05-19T01:40:24.489Z"
+      }
+    ]
+  },
+  {
+    "id": "github:ashrafsdrop/TripSketcher-back/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/ashrafsdrop/TripSketcher-back/main/swagger.yaml",
+    "title": "Travel Trip Management API",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "A comprehensive API for managing travel trips, including user authentication, trip creation, and trip data management.\n\n## Authentication\nThis API uses JWT (JSON Web Tokens) for authentication. Include the token in the Authorization header:\n```\nAuthorization: Bearer <your_jwt_token>\n```\n\n## Getting ",
+    "servers": [
+      "http://localhost:5000",
+      "https://api.yourdomain.com"
+    ],
+    "tags": [
+      "Authentication",
+      "Trip Management",
+      "Trip Data",
+      "Utility"
+    ],
+    "paths_count": 10,
+    "fetched_at": "2026-05-19T01:40:25.518Z",
+    "status": "active",
+    "content_hash": "8c21f2f512802c82965bcc37808eb5ad3055b0324fbc21942af37f5d0671ffb2",
+    "etag": "W/\"5961737ad84727d07af7cb66c67f08a7ddac68a828a66722f7074fd7735e57de\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "8c21f2f512802c82965bcc37808eb5ad3055b0324fbc21942af37f5d0671ffb2",
+        "paths_delta": 10,
+        "recorded_at": "2026-05-19T01:40:25.518Z"
+      }
+    ]
+  },
+  {
+    "id": "github:bhavyagor12/flo101-assignment/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/bhavyagor12/flo101-assignment/main/openapi.json",
+    "title": "flo101 Critic Agent",
+    "oas_version": "3.1.0",
+    "latest_version": "0.1.0",
+    "description": "Proof-of-Work Evaluator — Track C",
+    "servers": [],
+    "tags": [],
+    "paths_count": 9,
+    "fetched_at": "2026-05-19T01:40:24.202Z",
+    "status": "active",
+    "content_hash": "d158b193da2305664b3683c69b991226c85cb43ae5b56541709fc07d813b12b4",
+    "etag": "W/\"52e2af17603c3aa76d7ea12ddc6ad5c4583a91350aad6aee0e288b7258a4da31\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "d158b193da2305664b3683c69b991226c85cb43ae5b56541709fc07d813b12b4",
+        "paths_delta": 9,
+        "recorded_at": "2026-05-19T01:40:24.202Z"
+      }
+    ]
+  },
+  {
+    "id": "github:bibudem/api-horaires/config/schemas/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/bibudem/api-horaires/main/config/schemas/openapi.json",
+    "title": "API horaires",
+    "oas_version": "3.0.3",
+    "latest_version": "2.0.0",
+    "description": "Service REST pour les heures d'ouvertures des services de la Direction des bibliothèques, Université de Montréal",
+    "servers": [
+      "https://api.bib.umontreal.ca/horaires",
+      "/"
+    ],
+    "tags": [
+      "À propos",
+      "Horaires",
+      "Horaires par bibliothèque",
+      "Liste de code de bibliothèque",
+      "Liste des services",
+      "Liste des types de périodes"
+    ],
+    "paths_count": 7,
+    "fetched_at": "2026-05-19T01:40:24.225Z",
+    "status": "active",
+    "content_hash": "02f540e3b8b128e9baa0f3cedf990dccf5dee69d63fc72d5d311dc28ea0523e4",
+    "etag": "W/\"f6b652c6617a39be3d432106dd37920307d880bee9b35d44d5cbc11db6a71e7f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0.0",
+        "hash": "02f540e3b8b128e9baa0f3cedf990dccf5dee69d63fc72d5d311dc28ea0523e4",
+        "paths_delta": 7,
+        "recorded_at": "2026-05-19T01:40:24.225Z"
+      }
+    ]
+  },
+  {
+    "id": "github:blockscout/swaggers/services/autoscout/1.5.1/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/blockscout/swaggers/master/services/autoscout/1.5.1/swagger.yaml",
+    "title": "Autoscout service",
+    "oas_version": "2.0",
+    "latest_version": "0.1.1",
+    "description": "",
+    "servers": [
+      "https://autoscout.services.blockscout.com/"
+    ],
+    "tags": [
+      "Instances",
+      "Deployments",
+      "Users",
+      "Autoscout",
+      "Health"
+    ],
+    "paths_count": 29,
+    "fetched_at": "2026-05-19T01:40:26.848Z",
+    "status": "active",
+    "content_hash": "f110cfa8937639ecf16b69ecd93b30a00cafaaac6bb74beaa044fdec9933a241",
+    "etag": "W/\"664eef98903f673dd835e6befcad3fb21d001fe1c45b7a504a0a3fd0c88677e7\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.1",
+        "hash": "f110cfa8937639ecf16b69ecd93b30a00cafaaac6bb74beaa044fdec9933a241",
+        "paths_delta": 29,
+        "recorded_at": "2026-05-19T01:40:26.848Z"
+      }
+    ]
+  },
+  {
+    "id": "github:bywatersolutions/koha-plugin-library-iq/Koha/Plugin/Com/ByWaterSolutions/LibraryIQ/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/bywatersolutions/koha-plugin-library-iq/main/Koha/Plugin/Com/ByWaterSolutions/LibraryIQ/openapi.json",
+    "title": "",
+    "oas_version": "",
+    "latest_version": "",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "fetched_at": "2026-05-19T01:40:24.229Z",
+    "status": "invalid",
+    "content_hash": "2c875ca8a4aef6ad9938dea14503b2a3b247d67aef5b0e36337d6806b3d02b62",
+    "etag": "W/\"dd614bc9023b176a5633ab24d881aa9adcaf7c7bc2d13b3286de98710dd04d9d\"",
+    "last_modified": null,
+    "history": []
+  },
+  {
+    "id": "github:christiansteinert/tibetan-dictionary/backend/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/christiansteinert/tibetan-dictionary/master/backend/openapi.yaml",
+    "title": "",
+    "oas_version": "",
+    "latest_version": "",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "fetched_at": "2026-05-19T01:40:23.623Z",
+    "status": "invalid",
+    "content_hash": "5b60e8ec89ec3f694ed6eeedbbbfc4c6a21a9aa5a3f1ab78b488dff6bd0c9a90",
+    "etag": "W/\"4edb1483e58af05a019016ab8366faf1fcd6cea94a7d8f0699dac9b0c469a100\"",
+    "last_modified": null,
+    "history": []
+  },
+  {
+    "id": "github:codingsoo/nlp2rest/rule_extractor/APIs-guru/specifications/googleapis.com/jobs/v3/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/codingsoo/nlp2rest/main/rule_extractor/APIs-guru/specifications/googleapis.com/jobs/v3/openapi.yaml",
+    "title": "Cloud Talent Solution API",
+    "oas_version": "3.0.0",
+    "latest_version": "v3",
+    "description": "Cloud Talent Solution provides the capability to create, read, update, and delete job postings, as well as search jobs based on keywords and filters. ",
+    "servers": [
+      "https://jobs.googleapis.com/"
+    ],
+    "tags": [
+      "projects"
+    ],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:23.668Z",
+    "status": "active",
+    "content_hash": "d31ac94635f2a1cae3339b1ecdfca02e032bc4da5ae30083d09c15d6017adfcc",
+    "etag": "W/\"33dc0b2d94898cece61db2efd34ffdf7ae460123ac62ce836704706614404ce0\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v3",
+        "hash": "d31ac94635f2a1cae3339b1ecdfca02e032bc4da5ae30083d09c15d6017adfcc",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:23.668Z"
+      }
+    ]
+  },
+  {
+    "id": "github:codingsoo/nlp2rest/rule_extractor/APIs-guru/specifications/ip2location.io/1.0/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/codingsoo/nlp2rest/main/rule_extractor/APIs-guru/specifications/ip2location.io/1.0/openapi.yaml",
+    "title": "IP2Location.io IP Geolocation API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0",
+    "description": "IP2Location.io IP Geolocation API provides RESTful API to obtain visitors’ geolocation information such as country, region, district, city, latitude & longitude, ZIP code, time zone, ASN, ISP, domain, net speed, IDD code, area code, weather station data, MNC, MCC, mobile brand, elevation, usage type",
+    "servers": [
+      "https://api.ip2location.io"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:22.028Z",
+    "status": "active",
+    "content_hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+    "etag": "W/\"3870d7b54ae8dcd7d580a1d42b06704cf05c9e4d5bf7413e7eacf377f568b9dd\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:22.028Z"
+      }
+    ]
+  },
+  {
+    "id": "github:comi91262/swagger-to-rest/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/comi91262/swagger-to-rest/main/swagger.yaml",
+    "title": "Swagger Petstore",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "This is a sample server Petstore server.  You can find out more about     Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).      For this sample, you can use the api key `special-key` to test the authorization     filters.",
+    "servers": [
+      "https://petstore.swagger.io/v2",
+      "http://petstore.swagger.io/v2"
+    ],
+    "tags": [
+      "pet",
+      "store",
+      "user"
+    ],
+    "paths_count": 14,
+    "fetched_at": "2026-05-19T01:40:26.214Z",
+    "status": "active",
+    "content_hash": "4d2b45f03dac0fae8e9ec5aa8c87b64b62f30de1cb03bb5458bb6fc23dc5a1df",
+    "etag": "W/\"3e7e8b7bacbbc1f26ba9106216aecb157da85df07fd724e799f7d455c609b154\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "4d2b45f03dac0fae8e9ec5aa8c87b64b62f30de1cb03bb5458bb6fc23dc5a1df",
+        "paths_delta": 14,
+        "recorded_at": "2026-05-19T01:40:26.214Z"
+      }
+    ]
+  },
+  {
+    "id": "github:creimers/next-rest-test/public/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/creimers/next-rest-test/main/public/openapi.json",
+    "title": "Next REST Framework",
+    "oas_version": "3.0.1",
+    "latest_version": "v4.0.0",
+    "description": "This is an autogenerated documentation by Next REST Framework.",
+    "servers": [],
+    "tags": [],
+    "paths_count": 2,
+    "fetched_at": "2026-05-19T01:40:24.615Z",
+    "status": "active",
+    "content_hash": "2e4fc360c901c1d2fe1e85c79df286e28834e6128d9bb235b5b19d40870cc6f5",
+    "etag": "W/\"9b7a8e693750864afa18d0069c77da61a265de00c6b717aa6a411768e1f7f2fa\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v4.0.0",
+        "hash": "2e4fc360c901c1d2fe1e85c79df286e28834e6128d9bb235b5b19d40870cc6f5",
+        "paths_delta": 2,
+        "recorded_at": "2026-05-19T01:40:24.615Z"
+      }
+    ]
+  },
+  {
+    "id": "github:dascy03/novelmind-backend/docs/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/dascy03/novelmind-backend/master/docs/swagger.yaml",
+    "title": "Novelmind API",
+    "oas_version": "2.0",
+    "latest_version": "1.0",
+    "description": "REST API for Novelmind book management system.",
+    "servers": [
+      "https://localhost:8080/api/v1"
+    ],
+    "tags": [],
+    "paths_count": 18,
+    "fetched_at": "2026-05-19T01:40:26.811Z",
+    "status": "active",
+    "content_hash": "4d36cee9d5204ef406caad4a89cc2ead1b3274712194a1f4db310be5f4a83857",
+    "etag": "W/\"c3e7c040ae85e63e5756e2f8a12b4f746333ae4058cefe6e6a9384d0d0ce7c9d\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "4d36cee9d5204ef406caad4a89cc2ead1b3274712194a1f4db310be5f4a83857",
+        "paths_delta": 18,
+        "recorded_at": "2026-05-19T01:40:26.811Z"
+      }
+    ]
+  },
+  {
+    "id": "github:djval79/careunity-network/docs/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/djval79/careunity-network/main/docs/openapi.yaml",
+    "title": "CareUnity API",
+    "oas_version": "3.1.0",
+    "latest_version": "1.0.0",
+    "description": "# CareUnity Care Management Platform API\n\nThis API provides access to the CareUnity care management platform, enabling:\n\n- Service user management\n- Care plan creation and management\n- Goal and task tracking\n- Visit scheduling and management\n- Document management\n- Family portal access\n- ML-powered ",
+    "servers": [
+      "http://localhost:5000/api",
+      "https://api.careunity.example.com"
+    ],
+    "tags": [
+      "Authentication",
+      "Service Users",
+      "Care Plans",
+      "Goals",
+      "Tasks",
+      "ML Models",
+      "Visits",
+      "Documents",
+      "Family Portal",
+      "External Integration"
+    ],
+    "paths_count": 104,
+    "fetched_at": "2026-05-19T01:40:22.067Z",
+    "status": "active",
+    "content_hash": "06fd204c0da90fb16b1db70de444b32a4daeba5f629b59ea9af9715c030d39f3",
+    "etag": "W/\"eabec3a4f6dedda12be34599dcabaa204304861754c35933564e1d1e2aa37105\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "06fd204c0da90fb16b1db70de444b32a4daeba5f629b59ea9af9715c030d39f3",
+        "paths_delta": 104,
+        "recorded_at": "2026-05-19T01:40:22.067Z"
+      }
+    ]
+  },
+  {
+    "id": "github:drid-uniben/drid-con-ticket/server/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/drid-uniben/drid-con-ticket/dev/server/swagger.yaml",
+    "title": "UNIBEN Research Submission Portal API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API for the University of Benin Research Submission Portal\nThis API handles submission, review, and management of research proposals from staff and master's students.\n",
+    "servers": [
+      "https://api.researchportal.uniben.edu/api/v2",
+      "http://localhost:3000/api/v2"
+    ],
+    "tags": [],
+    "paths_count": 14,
+    "fetched_at": "2026-05-19T01:40:26.534Z",
+    "status": "active",
+    "content_hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+    "etag": "W/\"1e1a7873a37cb9240d9d351a671d3848da5a7ea480b3f51a655718bc8ea3c073\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+        "paths_delta": 14,
+        "recorded_at": "2026-05-19T01:40:26.534Z"
+      }
+    ]
+  },
+  {
+    "id": "github:drid-uniben/email-campaign/server/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/drid-uniben/email-campaign/main/server/swagger.yaml",
+    "title": "UNIBEN Research Submission Portal API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API for the University of Benin Research Submission Portal\nThis API handles submission, review, and management of research proposals from staff and master's students.\n",
+    "servers": [
+      "https://api.researchportal.uniben.edu/api/v2",
+      "http://localhost:3000/api/v2"
+    ],
+    "tags": [],
+    "paths_count": 14,
+    "fetched_at": "2026-05-19T01:40:26.571Z",
+    "status": "active",
+    "content_hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+    "etag": "W/\"1e1a7873a37cb9240d9d351a671d3848da5a7ea480b3f51a655718bc8ea3c073\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+        "paths_delta": 14,
+        "recorded_at": "2026-05-19T01:40:26.571Z"
+      }
+    ]
+  },
+  {
+    "id": "github:drid-uniben/ibr-tetfund-server/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/drid-uniben/ibr-tetfund-server/staging/swagger.yaml",
+    "title": "UNIBEN Research Submission Portal API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API for the University of Benin Research Submission Portal\nThis API handles submission, review, and management of research proposals from staff and master's students.\n",
+    "servers": [
+      "https://api.researchportal.uniben.edu/api/v2",
+      "http://localhost:3000/api/v2"
+    ],
+    "tags": [],
+    "paths_count": 14,
+    "fetched_at": "2026-05-19T01:40:25.701Z",
+    "status": "active",
+    "content_hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+    "etag": "W/\"1e1a7873a37cb9240d9d351a671d3848da5a7ea480b3f51a655718bc8ea3c073\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+        "paths_delta": 14,
+        "recorded_at": "2026-05-19T01:40:25.701Z"
+      }
+    ]
+  },
+  {
+    "id": "github:drid-uniben/ubjh/server/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/drid-uniben/ubjh/staging/server/swagger.yaml",
+    "title": "UNIBEN Research Submission Portal API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API for the University of Benin Research Submission Portal\nThis API handles submission, review, and management of research proposals from staff and master's students.\n",
+    "servers": [
+      "https://api.researchportal.uniben.edu/api/v2",
+      "http://localhost:3000/api/v2"
+    ],
+    "tags": [],
+    "paths_count": 14,
+    "fetched_at": "2026-05-19T01:40:26.529Z",
+    "status": "active",
+    "content_hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+    "etag": "W/\"1e1a7873a37cb9240d9d351a671d3848da5a7ea480b3f51a655718bc8ea3c073\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+        "paths_delta": 14,
+        "recorded_at": "2026-05-19T01:40:26.529Z"
+      }
+    ]
+  },
+  {
+    "id": "github:drid-uniben/ubjsti-server/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/drid-uniben/ubjsti-server/staging/swagger.yaml",
+    "title": "UNIBEN Research Submission Portal API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API for the University of Benin Research Submission Portal\nThis API handles submission, review, and management of research proposals from staff and master's students.\n",
+    "servers": [
+      "https://api.researchportal.uniben.edu/api/v2",
+      "http://localhost:3000/api/v2"
+    ],
+    "tags": [],
+    "paths_count": 14,
+    "fetched_at": "2026-05-19T01:40:26.539Z",
+    "status": "active",
+    "content_hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+    "etag": "W/\"1e1a7873a37cb9240d9d351a671d3848da5a7ea480b3f51a655718bc8ea3c073\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "4b47f879870bbd96c4e2c6b3cce80be4e6a121e3ba7cd5263abfbcf70366a184",
+        "paths_delta": 14,
+        "recorded_at": "2026-05-19T01:40:26.539Z"
+      }
+    ]
+  },
+  {
+    "id": "github:duyvu997/rent-house/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/duyvu997/rent-house/main/swagger.yaml",
+    "title": "Swagger Orange Juice",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "This is a APIs of Orange-Juice e-learning server.",
+    "servers": [
+      "https://orangejuicev2.herokuapp.com"
+    ],
+    "tags": [
+      "User",
+      "Course",
+      "Quiz",
+      "Auth",
+      "Lesson"
+    ],
+    "paths_count": 11,
+    "fetched_at": "2026-05-19T01:40:25.876Z",
+    "status": "active",
+    "content_hash": "896dc83fb1e675dec646570f29b557f486cc5f1d3b01d4badc5b54237626aae2",
+    "etag": "W/\"cc73a7a9cc514420fe59f54cd98aff5f002f17ce61be3203debd9858fe3ebe8e\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "896dc83fb1e675dec646570f29b557f486cc5f1d3b01d4badc5b54237626aae2",
+        "paths_delta": 11,
+        "recorded_at": "2026-05-19T01:40:25.876Z"
+      }
+    ]
+  },
+  {
+    "id": "github:eacunaISDA/traderX-hackathon-lab/trade-processor/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/eacunaISDA/traderX-hackathon-lab/ea-tx-cdm-dependency/trade-processor/openapi.yaml",
+    "title": "Position Service - TraderX",
+    "oas_version": "3.0.1",
+    "latest_version": "1.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:22.337Z",
+    "status": "active",
+    "content_hash": "c8b2bf2e40cf17fb3aa9a6bbbfd8336e4b61a07b6e9c237744c3c26014fd21ca",
+    "etag": "W/\"ffedd97cc16891b641774a8ce03ce09c67793ed8dc21f826fd2d6ca061ede9d5\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "c8b2bf2e40cf17fb3aa9a6bbbfd8336e4b61a07b6e9c237744c3c26014fd21ca",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:22.337Z"
+      }
+    ]
+  },
+  {
+    "id": "github:edwardgeorge/argo/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/edwardgeorge/argo/master/swagger.yaml",
+    "title": "Argo",
+    "oas_version": "2.0",
+    "latest_version": "v2.1.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "fetched_at": "2026-05-19T01:40:25.249Z",
+    "status": "active",
+    "content_hash": "39b5e24af32a5eb29cc84a3049334a71c37c2092eefe8a8b0779b577fd864053",
+    "etag": "W/\"59a6309ed6b9ba507d0d91209853989371241557f2763cf0bdee301666fa0306\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v2.1.0",
+        "hash": "39b5e24af32a5eb29cc84a3049334a71c37c2092eefe8a8b0779b577fd864053",
+        "paths_delta": 0,
+        "recorded_at": "2026-05-19T01:40:25.249Z"
+      }
+    ]
+  },
+  {
+    "id": "github:emreler/finch/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/emreler/finch/master/swagger.yaml",
+    "title": "Finch API",
+    "oas_version": "2.0",
+    "latest_version": "0.1.0",
+    "description": "Finch API Reference",
+    "servers": [
+      "https://api.usefinch.co/v1"
+    ],
+    "tags": [],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:24.949Z",
+    "status": "active",
+    "content_hash": "0dd2625050e18d2c8d01cc91e91cc5e74025725d7477fd67a2987e95fd8b849d",
+    "etag": "W/\"28f58e85da7ddd21565b440c3bc9ffefb3060d65d28a0c2bb3cbd71ba8d1cdd1\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "0dd2625050e18d2c8d01cc91e91cc5e74025725d7477fd67a2987e95fd8b849d",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:24.949Z"
+      }
+    ]
+  },
+  {
+    "id": "github:gabrielmatsan/api-golang/docs/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/gabrielmatsan/api-golang/main/docs/swagger.yaml",
+    "title": "API Golang",
+    "oas_version": "2.0",
+    "latest_version": "1.0",
+    "description": "API de usuários desenvolvida em Go com Chi router",
+    "servers": [
+      "https://localhost:8080/api/v1"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:26.813Z",
+    "status": "active",
+    "content_hash": "ce12bc5b908b0e997794304e2a0ed897a82be73126662e7e0dd8c0a12c4d1ee8",
+    "etag": "W/\"abc1939f37815868a37ecdd130bad57309a40f7025389c293e66fe63f79231cf\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "ce12bc5b908b0e997794304e2a0ed897a82be73126662e7e0dd8c0a12c4d1ee8",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:26.813Z"
+      }
+    ]
+  },
+  {
+    "id": "github:gate-computer/gate/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/gate-computer/gate/main/openapi.yaml",
+    "title": "Gate API",
+    "oas_version": "3.1.0",
+    "latest_version": "0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:21.695Z",
+    "status": "active",
+    "content_hash": "ed5375211e8420f6a8f1a0b5db584556edbd5b51e6f3392d497294246cd2d787",
+    "etag": "W/\"b7acf9c64c3d31149a310894dff5f85f1b21b743b15df0e4579844cc2f6c1f1f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0",
+        "hash": "ed5375211e8420f6a8f1a0b5db584556edbd5b51e6f3392d497294246cd2d787",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:21.695Z"
+      }
+    ]
+  },
+  {
+    "id": "github:gedge-platform/gedge-platform/gm-center/gmc_api_gateway/docs/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/gedge-platform/gedge-platform/master/gm-center/gmc_api_gateway/docs/swagger.yaml",
+    "title": "Gedge GM-Center Swagger API",
+    "oas_version": "2.0",
+    "latest_version": "2.0",
+    "description": "This is a Gedge GM-Center Swagger API.",
+    "servers": [
+      "http://101.79.1.138:8012/gmcapi/v2"
+    ],
+    "tags": [],
+    "paths_count": 52,
+    "fetched_at": "2026-05-19T01:40:26.842Z",
+    "status": "active",
+    "content_hash": "8710d843de3362082abc6c16a69a0b0ae38bc6dcdcd09ea59bce6d78b0353adf",
+    "etag": "W/\"73c5f4b3a6a61a25cd6048119c7ace2587dc71b9d9b03f101b478fda76f3f38d\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0",
+        "hash": "8710d843de3362082abc6c16a69a0b0ae38bc6dcdcd09ea59bce6d78b0353adf",
+        "paths_delta": 52,
+        "recorded_at": "2026-05-19T01:40:26.842Z"
+      }
+    ]
+  },
+  {
+    "id": "github:ghkadim/highload_architect/api/counter/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/ghkadim/highload_architect/main/api/counter/openapi.json",
+    "title": "OTUS Highload Architect",
+    "oas_version": "3.0.0",
+    "latest_version": "1.2.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:24.807Z",
+    "status": "active",
+    "content_hash": "dae47c2b64593b14844bdfbee6d81809f071df208d6043f078517003ba7033c7",
+    "etag": "W/\"3d198ff3dff57a7b09a72dfa0ca3465a15c09313ae519e3b0829700fff81ed56\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.2.0",
+        "hash": "dae47c2b64593b14844bdfbee6d81809f071df208d6043f078517003ba7033c7",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:24.807Z"
+      }
+    ]
+  },
+  {
+    "id": "github:github/rest-api-description/descriptions/api.github.com/api.github.com.yaml",
+    "source_url": "https://raw.githubusercontent.com/github/rest-api-description/main/descriptions/api.github.com/api.github.com.yaml",
+    "title": "GitHub v3 REST API",
+    "oas_version": "3.0.3",
+    "latest_version": "1.1.4",
+    "description": "GitHub's v3 REST API.",
+    "servers": [
+      "https://api.github.com"
+    ],
+    "tags": [
+      "actions",
+      "activity",
+      "apps",
+      "billing",
+      "checks",
+      "code-scanning",
+      "codes-of-conduct",
+      "emojis",
+      "dependabot",
+      "dependency-graph"
+    ],
+    "paths_count": 783,
+    "fetched_at": "2026-05-19T01:40:23.210Z",
+    "status": "active",
+    "content_hash": "2d2094fd1bab20958ae7f7b885fe818f19e57deea0bfdcbde7c9db450d5cc5a0",
+    "etag": "W/\"b06bf8bdadbed555eb2f95e0dec3f0696d8990651337f3603910667530ff02f7\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.1.4",
+        "hash": "2d2094fd1bab20958ae7f7b885fe818f19e57deea0bfdcbde7c9db450d5cc5a0",
+        "paths_delta": 783,
+        "recorded_at": "2026-05-19T01:40:23.210Z"
+      }
+    ]
+  },
+  {
+    "id": "github:glaciation-heu/Verdelix/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/glaciation-heu/Verdelix/main/api/openapi.yaml",
+    "title": "Template web service",
+    "oas_version": "3.1.0",
+    "latest_version": "0.1.0",
+    "description": "This is a template of a web service",
+    "servers": [],
+    "tags": [],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:22.343Z",
+    "status": "active",
+    "content_hash": "14144c4d5fa9eb2775b144d287cd3468ae96a2e577d5fd7b360cac940f482a02",
+    "etag": "W/\"9dc18f22e577da562ffaed3ab1cc98969b319cd17a628c5e1b850d8c3310b33f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "14144c4d5fa9eb2775b144d287cd3468ae96a2e577d5fd7b360cac940f482a02",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:22.343Z"
+      }
+    ]
+  },
+  {
+    "id": "github:glaciation-heu/glaciation-dssdb/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/glaciation-heu/glaciation-dssdb/main/api/openapi.yaml",
+    "title": "Template web service",
+    "oas_version": "3.1.0",
+    "latest_version": "0.1.0",
+    "description": "This is a template of a web service",
+    "servers": [],
+    "tags": [],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:22.351Z",
+    "status": "active",
+    "content_hash": "14144c4d5fa9eb2775b144d287cd3468ae96a2e577d5fd7b360cac940f482a02",
+    "etag": "W/\"9dc18f22e577da562ffaed3ab1cc98969b319cd17a628c5e1b850d8c3310b33f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "14144c4d5fa9eb2775b144d287cd3468ae96a2e577d5fd7b360cac940f482a02",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:22.351Z"
+      }
+    ]
+  },
+  {
+    "id": "github:glaciation-heu/glaciation-semantification-service/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/glaciation-heu/glaciation-semantification-service/main/api/openapi.yaml",
+    "title": "Template web service",
+    "oas_version": "3.1.0",
+    "latest_version": "0.1.0",
+    "description": "This is a template of a web service",
+    "servers": [],
+    "tags": [],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:22.376Z",
+    "status": "active",
+    "content_hash": "14144c4d5fa9eb2775b144d287cd3468ae96a2e577d5fd7b360cac940f482a02",
+    "etag": "W/\"9dc18f22e577da562ffaed3ab1cc98969b319cd17a628c5e1b850d8c3310b33f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "14144c4d5fa9eb2775b144d287cd3468ae96a2e577d5fd7b360cac940f482a02",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:22.376Z"
+      }
+    ]
+  },
+  {
+    "id": "github:glaciation-heu/glaciation-uc2-workload-service/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/glaciation-heu/glaciation-uc2-workload-service/main/api/openapi.yaml",
+    "title": "Template web service",
+    "oas_version": "3.1.0",
+    "latest_version": "0.1.0",
+    "description": "This is a template of a web service",
+    "servers": [],
+    "tags": [],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:22.358Z",
+    "status": "active",
+    "content_hash": "14144c4d5fa9eb2775b144d287cd3468ae96a2e577d5fd7b360cac940f482a02",
+    "etag": "W/\"9dc18f22e577da562ffaed3ab1cc98969b319cd17a628c5e1b850d8c3310b33f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "14144c4d5fa9eb2775b144d287cd3468ae96a2e577d5fd7b360cac940f482a02",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:22.358Z"
+      }
+    ]
+  },
+  {
+    "id": "github:go-gost/x/api/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/go-gost/x/master/api/swagger.yaml",
+    "title": "Documentation of Web API.",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 34,
+    "fetched_at": "2026-05-19T01:40:24.934Z",
+    "status": "active",
+    "content_hash": "dda5d5655424e40d489a66eedac5c54eb2b432c82fc6ec69849aa152770ea91b",
+    "etag": "W/\"9d104ca73555561468749a67eb46f549fbd048d806e406c6647d6b05f0f4f6a5\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "dda5d5655424e40d489a66eedac5c54eb2b432c82fc6ec69849aa152770ea91b",
+        "paths_delta": 34,
+        "recorded_at": "2026-05-19T01:40:24.934Z"
+      }
+    ]
+  },
+  {
+    "id": "github:hanswolff/wireguard-mesh-manager/backend/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/hanswolff/wireguard-mesh-manager/main/backend/openapi.json",
+    "title": "WireGuard Mesh Manager API",
+    "oas_version": "3.1.0",
+    "latest_version": "1.0.0",
+    "description": "Backend API for managing WireGuard VPN networks and devices",
+    "servers": [],
+    "tags": [],
+    "paths_count": 59,
+    "fetched_at": "2026-05-19T01:40:24.333Z",
+    "status": "active",
+    "content_hash": "5a7bad90b309d27f6fc3f640a3886845b4998f2463756edbeba0c9f8c0ff9f9a",
+    "etag": "W/\"3e21746ff63dbffe994cb10617b63d1b1979f6e6c4d1e65b4ac2381f5d5d46f5\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "5a7bad90b309d27f6fc3f640a3886845b4998f2463756edbeba0c9f8c0ff9f9a",
+        "paths_delta": 59,
+        "recorded_at": "2026-05-19T01:40:24.333Z"
+      }
+    ]
+  },
+  {
+    "id": "github:hellofresh/kangal/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/hellofresh/kangal/master/openapi.json",
+    "title": "Kangal",
+    "oas_version": "3.0.0",
+    "latest_version": "0.0.1",
+    "description": "These docs describe how to use the Kangal Proxy API.",
+    "servers": [
+      "http://127.0.0.1:80"
+    ],
+    "tags": [],
+    "paths_count": 6,
+    "fetched_at": "2026-05-19T01:40:23.931Z",
+    "status": "active",
+    "content_hash": "0e58fb7f5d250931c3dac7630f577d69fceb60b20f3a349ec75e54c8e2ad9f72",
+    "etag": "W/\"eb65565eaaa7c500190bc038d89beca7375247e212367af8d8ed097aeefbc1e6\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.0.1",
+        "hash": "0e58fb7f5d250931c3dac7630f577d69fceb60b20f3a349ec75e54c8e2ad9f72",
+        "paths_delta": 6,
+        "recorded_at": "2026-05-19T01:40:23.931Z"
+      }
+    ]
+  },
+  {
+    "id": "github:hsodhi20/jobs-api/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/hsodhi20/jobs-api/main/swagger.yaml",
+    "title": "Jobs API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0",
+    "description": "",
+    "servers": [
+      "http://localhost:5000/api/v1"
+    ],
+    "tags": [
+      "Auth",
+      "Jobs"
+    ],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:25.524Z",
+    "status": "active",
+    "content_hash": "f2b523e4c2ec536e0f8404cbcf69d1d5c41454b79316e4e4fdf23518476279e9",
+    "etag": "W/\"84395e4e896fdb280b25325032cef94e408eb34e88fc50feccac8cc484aa8133\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "f2b523e4c2ec536e0f8404cbcf69d1d5c41454b79316e4e4fdf23518476279e9",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:25.524Z"
+      }
+    ]
+  },
+  {
+    "id": "github:insolar/spec-insolar-block-explorer-api/v1/openapi/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/insolar/spec-insolar-block-explorer-api/master/v1/openapi/openapi.yaml",
+    "title": "Insolar Explorer API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "# Insolar Explorer API documentation\n\nWelcome to Insolar documentation for a REST-like API provided by Insolar Explorer.\n\n[Insolar Explorer](https://github.com/insolar/block-explorer) is a service for searching for and viewing the contents of records, lifelines, jet drops, and jets.\n\nInsolar Explore",
+    "servers": [
+      "example.com"
+    ],
+    "tags": [
+      "Pulse",
+      "Jet drop",
+      "Record",
+      "Request, result, and state",
+      "Search"
+    ],
+    "paths_count": 13,
+    "fetched_at": "2026-05-19T01:40:23.237Z",
+    "status": "active",
+    "content_hash": "dbcc46ec59d3601612aa338b287cb4319d2ed1112766171c5949fcdf513a0f37",
+    "etag": "W/\"905edc82c8de064469f97ba0e68eadf5934fe45d6c14d90ab0791b67862b90b3\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "dbcc46ec59d3601612aa338b287cb4319d2ed1112766171c5949fcdf513a0f37",
+        "paths_delta": 13,
+        "recorded_at": "2026-05-19T01:40:23.237Z"
+      }
+    ]
+  },
+  {
+    "id": "github:itdcoronation/Documentation/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/itdcoronation/Documentation/master/swagger.yaml",
+    "title": "Wealth By Coronation Backend APIs",
+    "oas_version": "3.0.1",
+    "latest_version": "1.0",
+    "description": "A middleware project that connects data sources for information exchange.",
+    "servers": [
+      "https://wbc-proxy-test.coronation.ng/app"
+    ],
+    "tags": [
+      "Account",
+      "DataMart",
+      "Fund",
+      "MarketData",
+      "Trade",
+      "USSD",
+      "Subscription"
+    ],
+    "paths_count": 11,
+    "fetched_at": "2026-05-19T01:40:25.847Z",
+    "status": "active",
+    "content_hash": "224d2362e89a7ff0eb65808ef3961ca1cddf79380d6007ed75a6c8ca4747b37e",
+    "etag": "W/\"5e16873c6927ff183677a559eedc54d9771a122d3fad198fa082e1dc8d63415a\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "224d2362e89a7ff0eb65808ef3961ca1cddf79380d6007ed75a6c8ca4747b37e",
+        "paths_delta": 11,
+        "recorded_at": "2026-05-19T01:40:25.847Z"
+      }
+    ]
+  },
+  {
+    "id": "github:jentic/jentic-public-apis/apis/openapi/511on.ca/main/2.0.0/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/main/apis/openapi/511on.ca/main/2.0.0/openapi.json",
+    "title": "Ontario 511 Transportation API",
+    "oas_version": "3.0.3",
+    "latest_version": "2.0.0",
+    "description": "Ontario 511 traffic and transportation data API providing real-time information on events, construction, cameras, road conditions, and more.",
+    "servers": [
+      "https://511on.ca/api/v2"
+    ],
+    "tags": [
+      "Transportation"
+    ],
+    "paths_count": 16,
+    "fetched_at": "2026-05-19T01:40:24.788Z",
+    "status": "active",
+    "content_hash": "de2388b9d8cf5f51567bbe811d7ba646656fce13b757e5b7cf00a19518e81a52",
+    "etag": "W/\"0be7b3f76801f4ba8d0c27f680caa6f20bdb91bc9fe48cbc9f8fb110e422738f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0.0",
+        "hash": "de2388b9d8cf5f51567bbe811d7ba646656fce13b757e5b7cf00a19518e81a52",
+        "paths_delta": 16,
+        "recorded_at": "2026-05-19T01:40:24.788Z"
+      }
+    ]
+  },
+  {
+    "id": "github:jentic/jentic-public-apis/apis/openapi/clearbooks.co.uk/clear-books-api/1.0.0/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/main/apis/openapi/clearbooks.co.uk/clear-books-api/1.0.0/openapi.json",
+    "title": "Clear Books API",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "REST API for interfacing with Clear Books products\n\n# Authentication\n\nThis API uses OAuth 2 for authentication and authorisation. A compatible OAuth 2 client library or sufficient knowledge to implement an OAuth 2 client is required.\n\nOnly confidential clients are supported and must use the \"Authori",
+    "servers": [
+      "https://api.clearbooks.co.uk/v1"
+    ],
+    "tags": [
+      "Businesses",
+      "Account Codes",
+      "Bank Accounts",
+      "Customers",
+      "Suppliers",
+      "Sales",
+      "Purchases",
+      "Payments",
+      "Allocations",
+      "Stock Items"
+    ],
+    "paths_count": 34,
+    "fetched_at": "2026-05-19T01:40:24.007Z",
+    "status": "active",
+    "content_hash": "7ec42ff304547c82a965a41da725b3563f486352ace27c2d0e13b8c9465aceb4",
+    "etag": "W/\"4b0c49b50a75e754c988a0f094c3fd6733f307e733393b423849f24911644ba4\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "7ec42ff304547c82a965a41da725b3563f486352ace27c2d0e13b8c9465aceb4",
+        "paths_delta": 34,
+        "recorded_at": "2026-05-19T01:40:24.007Z"
+      }
+    ]
+  },
+  {
+    "id": "github:jentic/jentic-public-apis/apis/openapi/genderize.io/main/1.0.0/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/main/apis/openapi/genderize.io/main/1.0.0/openapi.json",
+    "title": "Genderize API",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "A simple API that predicts the gender of a person based on a first name. Returns the statistical probability of a name being male or female.",
+    "servers": [
+      "https://api.genderize.io"
+    ],
+    "tags": [
+      "Gender Prediction"
+    ],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:24.222Z",
+    "status": "active",
+    "content_hash": "11c14206c352a593c87a47e37fefa9445a3164e772c9795c66d040cae76e67aa",
+    "etag": "W/\"32cd0059a7249c7bb37c9b2df9c82300a26d1df75eb7559fa4f3ba15009aff0d\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "11c14206c352a593c87a47e37fefa9445a3164e772c9795c66d040cae76e67aa",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:24.222Z"
+      }
+    ]
+  },
+  {
+    "id": "github:jentic/jentic-public-apis/apis/openapi/hubspot.com/Marketing-marketingEvents/v3/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/main/apis/openapi/hubspot.com/Marketing-marketingEvents/v3/openapi.json",
+    "title": "Marketing Marketing Events",
+    "oas_version": "3.0.1",
+    "latest_version": "v3",
+    "description": "Basepom for all HubSpot Projects",
+    "servers": [
+      "https://api.hubapi.com"
+    ],
+    "tags": [
+      "Add event attendees",
+      "Retrieve Participant State",
+      "Subscriber State Changes",
+      "Basic",
+      "Batch",
+      "List Associations",
+      "Identifiers",
+      "Change property",
+      "Settings"
+    ],
+    "paths_count": 28,
+    "fetched_at": "2026-05-19T01:40:24.627Z",
+    "status": "active",
+    "content_hash": "6e7631a4019be553343a943c74ff1cc7a599d1680db9535dd84eb09a5d22a1b2",
+    "etag": "W/\"cb1b92fefec23e830fb405f7ebc696a578a7598386b4b9aef698616bdb38bea9\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v3",
+        "hash": "6e7631a4019be553343a943c74ff1cc7a599d1680db9535dd84eb09a5d22a1b2",
+        "paths_delta": 28,
+        "recorded_at": "2026-05-19T01:40:24.627Z"
+      }
+    ]
+  },
+  {
+    "id": "github:jentic/jentic-public-apis/apis/openapi/openchannel.io/openchannel-market-api/2.0.24/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/jentic/jentic-public-apis/main/apis/openapi/openchannel.io/openchannel-market-api/2.0.24/openapi.json",
+    "title": "OpenChannel Market API",
+    "oas_version": "3.0.0",
+    "latest_version": "2.0.24",
+    "description": "",
+    "servers": [
+      "https://market.openchannel.io/v2"
+    ],
+    "tags": [],
+    "paths_count": 41,
+    "fetched_at": "2026-05-19T01:40:24.919Z",
+    "status": "active",
+    "content_hash": "517f7c4a15ac801fb6ced968d24a46fe47ab1bfa0f2fd3ff6cf056e7f0599f3b",
+    "etag": "W/\"a5f0e65e76155c71486b62e2173707b98263d849d738baf9a72e205b6dbf3e23\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0.24",
+        "hash": "517f7c4a15ac801fb6ced968d24a46fe47ab1bfa0f2fd3ff6cf056e7f0599f3b",
+        "paths_delta": 41,
+        "recorded_at": "2026-05-19T01:40:24.919Z"
+      }
+    ]
+  },
+  {
+    "id": "github:jukasdrj/swiftwing/swiftwing/Generated/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/jukasdrj/swiftwing/main/swiftwing/Generated/openapi.yaml",
+    "title": "Talaria V3 API",
+    "oas_version": "3.0.3",
+    "latest_version": "3.7.0",
+    "description": "High-speed bookshelf scanning API with Gemini Vision",
+    "servers": [
+      "https://api.oooefam.net",
+      "http://localhost:8787"
+    ],
+    "tags": [
+      "Scans",
+      "Books",
+      "Admin"
+    ],
+    "paths_count": 9,
+    "fetched_at": "2026-05-19T01:40:22.047Z",
+    "status": "active",
+    "content_hash": "d4035cbe0386cab53154e801ba4dd4f9ff4fb7392d659bde5ccaf0e4022260c4",
+    "etag": "W/\"853f3ca3a421b38a9365b95ffde8ec5309af6d709340fbfd3e2c4e31018a62e1\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "3.7.0",
+        "hash": "d4035cbe0386cab53154e801ba4dd4f9ff4fb7392d659bde5ccaf0e4022260c4",
+        "paths_delta": 9,
+        "recorded_at": "2026-05-19T01:40:22.047Z"
+      }
+    ]
+  },
+  {
+    "id": "github:jvario/intent-classification/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/jvario/intent-classification/main/swagger.yaml",
+    "title": "Intent Classification API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API documentation for intent classification service.",
+    "servers": [],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:25.863Z",
+    "status": "active",
+    "content_hash": "92cbc5045fb2ab4b0ed28635dd75e0499231db9b29829f549c04fdd28e80ebe6",
+    "etag": "W/\"cfc5c597b8259a0117c71ce4864e81a410064dfc755689b5bfd25ffee428d2f3\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "92cbc5045fb2ab4b0ed28635dd75e0499231db9b29829f549c04fdd28e80ebe6",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:25.863Z"
+      }
+    ]
+  },
+  {
+    "id": "github:kiaaKhalid/MobileSec-MS/docs/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/kiaaKhalid/MobileSec-MS/main/docs/api/openapi.yaml",
+    "title": "MobileSec-MS API",
+    "oas_version": "3.0.3",
+    "latest_version": "0.1.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 2,
+    "fetched_at": "2026-05-19T01:40:23.619Z",
+    "status": "active",
+    "content_hash": "5de12256b8c48fb098d2d6880739755f644fd8f0eb243130bc074f6651390965",
+    "etag": "W/\"235aa43460b91e471a7c6c6c72929892d0b77e2e683116a7e024bfdf9391417d\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "5de12256b8c48fb098d2d6880739755f644fd8f0eb243130bc074f6651390965",
+        "paths_delta": 2,
+        "recorded_at": "2026-05-19T01:40:23.619Z"
+      }
+    ]
+  },
+  {
+    "id": "github:konfig-sdks/openapi-examples/walmart/content-management/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/konfig-sdks/openapi-examples/main/walmart/content-management/openapi.yaml",
+    "title": "Content Management",
+    "oas_version": "3.0.1",
+    "latest_version": "",
+    "description": "The content management feed allows you to process content for items in bulk. You can take in content via the content feeds. Use the XSDs to manage content.",
+    "servers": [
+      "https://marketplace.walmartapis.com/v3/feeds"
+    ],
+    "tags": [
+      "Feeds"
+    ],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:23.249Z",
+    "status": "active",
+    "content_hash": "b5fb31f429d415f8a8bde1c7a9d923ca6db5901998f99fe33a2d176faad879a8",
+    "etag": "W/\"0fdb638d40be7084697350332e43d2e75bfd4b74127040e7eebeb04a5027b09f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "",
+        "hash": "b5fb31f429d415f8a8bde1c7a9d923ca6db5901998f99fe33a2d176faad879a8",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:23.249Z"
+      }
+    ]
+  },
+  {
+    "id": "github:konfig-sdks/openapi-examples/wannme/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/konfig-sdks/openapi-examples/main/wannme/openapi.yaml",
+    "title": "WANNME API REST",
+    "oas_version": "3.0.1",
+    "latest_version": "2.7.8",
+    "description": "Welcome to WANNME Integration API",
+    "servers": [
+      "https://rest-demo.wannme.com/integration/v2"
+    ],
+    "tags": [
+      "WANNME PAY MASTER DATA",
+      "WANNME PAY DEBT CASES",
+      "WANNME PAY RECURRENT PAYMENTS",
+      "WANNME PAY PAYMENTS",
+      "WANNME PAY MERGE PAYMENTS",
+      "WANNME PAY MERCHANTS",
+      "WANNME PAY DOCUMENTS"
+    ],
+    "paths_count": 85,
+    "fetched_at": "2026-05-19T01:40:23.300Z",
+    "status": "active",
+    "content_hash": "94d89429732524fc63597a0666ed4ca467cd421c27f7a5065b920134a435a111",
+    "etag": "W/\"86881c16993d64e5aea94b1f69d0b5470fd555d7cd26f132d696277809662ab8\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.7.8",
+        "hash": "94d89429732524fc63597a0666ed4ca467cd421c27f7a5065b920134a435a111",
+        "paths_delta": 85,
+        "recorded_at": "2026-05-19T01:40:23.300Z"
+      }
+    ]
+  },
+  {
+    "id": "github:krus210/archspec/examples/go-microservice-fixture/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/krus210/archspec/main/examples/go-microservice-fixture/api/openapi.yaml",
+    "title": "listings-svc",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:23.609Z",
+    "status": "active",
+    "content_hash": "f2b723fc7de18f8af9a05122b36b91be975749e4f1045a3e30d0fbc104511b0a",
+    "etag": "W/\"131b48104931692060866ab69d0890b238380e6ea917c7df7b3b5300b2f0ffb8\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "f2b723fc7de18f8af9a05122b36b91be975749e4f1045a3e30d0fbc104511b0a",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:23.609Z"
+      }
+    ]
+  },
+  {
+    "id": "github:kryptoslogic/godaddy-domainclient/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/kryptoslogic/godaddy-domainclient/master/api/openapi.yaml",
+    "title": "",
+    "oas_version": "3.0.1",
+    "latest_version": "",
+    "description": "",
+    "servers": [
+      "//api.ote-godaddy.com/"
+    ],
+    "tags": [
+      "v1",
+      "v2"
+    ],
+    "paths_count": 20,
+    "fetched_at": "2026-05-19T01:40:23.280Z",
+    "status": "active",
+    "content_hash": "958b08a80f93cd0743ed611ee5c5c372257379d35a1b17bb7fc0e5ba80fc0f98",
+    "etag": "W/\"2c9871b51bb7efa15d1685151baf896ef3f38dac7099f9a88c235915c63718d6\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "",
+        "hash": "958b08a80f93cd0743ed611ee5c5c372257379d35a1b17bb7fc0e5ba80fc0f98",
+        "paths_delta": 20,
+        "recorded_at": "2026-05-19T01:40:23.280Z"
+      }
+    ]
+  },
+  {
+    "id": "github:kunalsinghdadhwal/nyx/app/rest/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/kunalsinghdadhwal/nyx/main/app/rest/openapi.yaml",
+    "title": "Nyx Ethereum Indexer API",
+    "oas_version": "3.1.0",
+    "latest_version": "1.0.0",
+    "description": "REST API for querying indexed Ethereum blockchain data including blocks, transactions, and events.\n\n## WebSocket Subscriptions\nConnect to `/ws` for real-time updates. Send JSON messages to subscribe:\n```json\n{\"name\": \"block\", \"type\": \"subscribe\"}\n{\"name\": \"transaction\", \"type\": \"subscribe\"}\n{\"name\":",
+    "servers": [
+      "http://localhost:8080"
+    ],
+    "tags": [
+      "Status",
+      "Blocks",
+      "Transactions",
+      "Events"
+    ],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:23.617Z",
+    "status": "active",
+    "content_hash": "15b3fdd80739d250b46c966820e0b52fb761b5d6791d1f9e518a510e913c9543",
+    "etag": "W/\"645ae111d7c19b20487c6f763d97d76ecb7232c7094bec1d0e3579d4a7464ea0\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "15b3fdd80739d250b46c966820e0b52fb761b5d6791d1f9e518a510e913c9543",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:23.617Z"
+      }
+    ]
+  },
+  {
+    "id": "github:ljlm0402/typescript-express-starter/devtools/api/swagger/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/ljlm0402/typescript-express-starter/master/devtools/api/swagger/swagger.yaml",
+    "title": "Express Typescript API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "User API Docs",
+    "servers": [],
+    "tags": [
+      "users"
+    ],
+    "paths_count": 2,
+    "fetched_at": "2026-05-19T01:40:24.914Z",
+    "status": "active",
+    "content_hash": "aa88f2441f1b2024fa681cc8f1d05b88118b9867b036e54372cdc39f60681fd1",
+    "etag": "W/\"fe4dd29e06e1e5ce4bcd348c581361fdf04c2a18d452f3a4183963157de19cfe\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "aa88f2441f1b2024fa681cc8f1d05b88118b9867b036e54372cdc39f60681fd1",
+        "paths_delta": 2,
+        "recorded_at": "2026-05-19T01:40:24.914Z"
+      }
+    ]
+  },
+  {
+    "id": "github:lucasspartacus/API-Schema/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/lucasspartacus/API-Schema/main/openapi.json",
+    "title": "API de Contatos",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0-oas3",
+    "description": "Aplicação para gerenciamento de contatos de pessoas e organizações",
+    "servers": [
+      "https://virtserver.swaggerhub.com/LUCASSPARTACUS_1/APIContatos/1.0.0-oas3",
+      "http://localhost:5500"
+    ],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:24.512Z",
+    "status": "active",
+    "content_hash": "db7e8710bb325605e12bc179d9973538df01fa1804e72150b203d6ecb8cc4fce",
+    "etag": "W/\"0ad53159decb2afda87202acddb26e933bdc0b6fc9bd37da8db0a4cd03aa7f0e\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0-oas3",
+        "hash": "db7e8710bb325605e12bc179d9973538df01fa1804e72150b203d6ecb8cc4fce",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:24.512Z"
+      }
+    ]
+  },
+  {
+    "id": "github:mantasjasikenas/web-application-design-api/docs/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/mantasjasikenas/web-application-design-api/master/docs/openapi.json",
+    "title": "Tasks RESTful API",
+    "oas_version": "3.1.0",
+    "latest_version": "1.0",
+    "description": "API used for tasks management",
+    "servers": [
+      "http://localhost:8080"
+    ],
+    "tags": [],
+    "paths_count": 11,
+    "fetched_at": "2026-05-19T01:40:24.288Z",
+    "status": "active",
+    "content_hash": "59ce1da77eb6c0d0dc6ef9bd4a8fcb2248d697bc7315e59a01e4055b57abb60d",
+    "etag": "W/\"d1b02e991fbdb6f37c42a885a6aa2f924d66326edc035b80b644fb641e1e3302\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "59ce1da77eb6c0d0dc6ef9bd4a8fcb2248d697bc7315e59a01e4055b57abb60d",
+        "paths_delta": 11,
+        "recorded_at": "2026-05-19T01:40:24.288Z"
+      }
+    ]
+  },
+  {
+    "id": "github:mediaurl/mediaurl-js/packages/schema/schema/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/mediaurl/mediaurl-js/main/packages/schema/schema/openapi.yaml",
+    "title": "MediaURL Addon API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:22.645Z",
+    "status": "active",
+    "content_hash": "17a2dda7255977ec236f54fcd896f920a573806c85452f04ac9f4123f1c19a9f",
+    "etag": "W/\"a565e89692ab211d95d35ece491bff79b56d853bbfccbf38cc294ec6e6ba302a\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "17a2dda7255977ec236f54fcd896f920a573806c85452f04ac9f4123f1c19a9f",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:22.645Z"
+      }
+    ]
+  },
+  {
+    "id": "github:mehdihadeli/go-food-delivery-microservices/internal/services/catalogreadservice/docs/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/mehdihadeli/go-food-delivery-microservices/main/internal/services/catalogreadservice/docs/swagger.yaml",
+    "title": "Catalogs Read-Service Api",
+    "oas_version": "2.0",
+    "latest_version": "1.0",
+    "description": "Catalogs Read-Service Api.",
+    "servers": [],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:26.674Z",
+    "status": "active",
+    "content_hash": "ad7e5d137a10d06f18c483fbcb93972746c1c7caaa316289fc2d18ce2f481280",
+    "etag": "W/\"cdc6f4127ac3c88eaac7549c96818020755adf31eefc70d3657f4fc9ebe5d39f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "ad7e5d137a10d06f18c483fbcb93972746c1c7caaa316289fc2d18ce2f481280",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:26.674Z"
+      }
+    ]
+  },
+  {
+    "id": "github:mouss21/ZackProjet_ArgentBank/Backend/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/mouss21/ZackProjet_ArgentBank/master/Backend/swagger.yaml",
+    "title": "Bank Argent API documentation",
+    "oas_version": "2.0",
+    "latest_version": "2.0.0",
+    "description": "Contains all available API endpoints in this codebase",
+    "servers": [
+      "http://localhost:3001/api/v2"
+    ],
+    "tags": [],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:26.506Z",
+    "status": "active",
+    "content_hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+    "etag": "W/\"19064384009402f7456f4913be2befd91c29cd72588864f2445764596735aa2c\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0.0",
+        "hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:26.506Z"
+      }
+    ]
+  },
+  {
+    "id": "github:mouss21/ZackProjet_ArgentBank/FrontEnd/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/mouss21/ZackProjet_ArgentBank/master/FrontEnd/swagger.yaml",
+    "title": "Bank Argent API documentation",
+    "oas_version": "2.0",
+    "latest_version": "2.0.0",
+    "description": "Contains all available API endpoints in this codebase",
+    "servers": [
+      "http://localhost:3001/api/v2"
+    ],
+    "tags": [],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:26.516Z",
+    "status": "active",
+    "content_hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+    "etag": "W/\"19064384009402f7456f4913be2befd91c29cd72588864f2445764596735aa2c\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0.0",
+        "hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:26.516Z"
+      }
+    ]
+  },
+  {
+    "id": "github:nfriend21/asf_apidocs/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/nfriend21/asf_apidocs/master/swagger.yaml",
+    "title": "Art Storefronts Web API",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "Art Storefronts API",
+    "servers": [
+      "https://api.artstorefronts.com/v1"
+    ],
+    "tags": [],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:25.383Z",
+    "status": "active",
+    "content_hash": "b8cb329243dc3d5f09f8f4a0d741e8848831731488eb8817b20132994f509b1d",
+    "etag": "W/\"9328aca4ee40aa8319824c245215d7d80350ca99a9687fd344a16e181b7a0012\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "b8cb329243dc3d5f09f8f4a0d741e8848831731488eb8817b20132994f509b1d",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:25.383Z"
+      }
+    ]
+  },
+  {
+    "id": "github:nikolaev-dm/doc/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/nikolaev-dm/doc/master/swagger.yaml",
+    "title": "",
+    "oas_version": "2.0",
+    "latest_version": "0.1.0",
+    "description": "### Конструктор приложений\n",
+    "servers": [
+      "http://foodexpress.russianit.ru/api/v4"
+    ],
+    "tags": [
+      "errors",
+      "websocket",
+      "auth",
+      "messages",
+      "files",
+      "categories",
+      "cart",
+      "products",
+      "promos",
+      "order"
+    ],
+    "paths_count": 27,
+    "fetched_at": "2026-05-19T01:40:25.592Z",
+    "status": "active",
+    "content_hash": "cad8486504f90abc57c89f1a5c86c475a1b157b84cc1364581f37eba69de79ee",
+    "etag": "W/\"946ce3d27d0fd6a77a5a92f3c38940c721effe7f52e68f85ff697fa194e65523\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "cad8486504f90abc57c89f1a5c86c475a1b157b84cc1364581f37eba69de79ee",
+        "paths_delta": 27,
+        "recorded_at": "2026-05-19T01:40:25.593Z"
+      }
+    ]
+  },
+  {
+    "id": "github:novatechflow/bacnet-mqtt-gateway/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/novatechflow/bacnet-mqtt-gateway/master/openapi.yaml",
+    "title": "BACnet MQTT Gateway API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.6.0",
+    "description": "API for managing and interacting with the BACnet MQTT Gateway, including runtime health for production deployments.",
+    "servers": [
+      "http://localhost:{port}"
+    ],
+    "tags": [],
+    "paths_count": 5,
+    "fetched_at": "2026-05-19T01:40:21.666Z",
+    "status": "active",
+    "content_hash": "f2c33837d146117f9d13427282aef7581d7a2973ceadf714f68afe3193d6f66c",
+    "etag": "W/\"be0142b117f18c355fc139206c759c7af07c9b85e0338cdba5be0cce0d024026\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.6.0",
+        "hash": "f2c33837d146117f9d13427282aef7581d7a2973ceadf714f68afe3193d6f66c",
+        "paths_delta": 5,
+        "recorded_at": "2026-05-19T01:40:21.666Z"
+      }
+    ]
+  },
+  {
+    "id": "github:onejgordon/flow-dashboard/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/onejgordon/flow-dashboard/develop/swagger.yaml",
+    "title": "Flow Dashboard",
+    "oas_version": "2.0",
+    "latest_version": "1.2",
+    "description": "Flow Dashboard APIs\n[http://flowdash.co](http://flowdash.co)\n",
+    "servers": [
+      "https://flowdash.co/api"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "fetched_at": "2026-05-19T01:40:24.910Z",
+    "status": "active",
+    "content_hash": "490f048c4e6569de07060f90302c6e4120bb62cbb9440563191ecc1b28476d8a",
+    "etag": "W/\"7171c586f06e2a8deb17f6a8bc8f9e5d6fdd54db5f32363f7f84ab4ea5eb375d\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.2",
+        "hash": "490f048c4e6569de07060f90302c6e4120bb62cbb9440563191ecc1b28476d8a",
+        "paths_delta": 2,
+        "recorded_at": "2026-05-19T01:40:24.910Z"
+      }
+    ]
+  },
+  {
+    "id": "github:osu-mist/beaver-bus-api/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/osu-mist/beaver-bus-api/master/swagger.yaml",
+    "title": "Beaver Bus API",
+    "oas_version": "2.0",
+    "latest_version": "1.0",
+    "description": "Get Corvallis campus bus routes, stops, ETAs, and current GPS locations.",
+    "servers": [
+      "https://api.oregonstate.edu/v1/beaverbus"
+    ],
+    "tags": [],
+    "paths_count": 5,
+    "fetched_at": "2026-05-19T01:40:25.390Z",
+    "status": "active",
+    "content_hash": "2b1d52a29173fb97b132ddfae80107b521d6d16856f2782e1f40fbc23cc5c368",
+    "etag": "W/\"63fb9099798338c122a56b19c1a645bb8b1db1e4725af7b1da5bbb29d3ae7f40\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "2b1d52a29173fb97b132ddfae80107b521d6d16856f2782e1f40fbc23cc5c368",
+        "paths_delta": 5,
+        "recorded_at": "2026-05-19T01:40:25.390Z"
+      }
+    ]
+  },
+  {
+    "id": "github:probably-ABHINAV/ai-devops-assistant/docs/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/probably-ABHINAV/ai-devops-assistant/main/docs/api/openapi.yaml",
+    "title": "",
+    "oas_version": "",
+    "latest_version": "",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "fetched_at": "2026-05-19T01:40:23.614Z",
+    "status": "invalid",
+    "content_hash": "fac53f86cdabaf906ee11e9cf6291f5eb477bc1145a9434186987921be9f321b",
+    "etag": "W/\"9e1f88fdc245a546cc617775c5944a4a6f798abcbb59d8421cef07e348c9b1ad\"",
+    "last_modified": null,
+    "history": []
+  },
+  {
+    "id": "github:qdrant/qdrant/docs/redoc/v1.6.x/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/qdrant/qdrant/master/docs/redoc/v1.6.x/openapi.json",
+    "title": "Qdrant API",
+    "oas_version": "3.0.1",
+    "latest_version": "v1.6.x",
+    "description": "API description for Qdrant vector search engine.\n\nThis document describes CRUD and search operations on collections of points (vectors with payload).\n\nQdrant supports any combinations of `should`, `must` and `must_not` conditions, which makes it possible to use in applications when object could not ",
+    "servers": [
+      "{protocol}://{hostname}:{port}"
+    ],
+    "tags": [
+      "collections",
+      "points",
+      "cluster",
+      "snapshots"
+    ],
+    "paths_count": 44,
+    "fetched_at": "2026-05-19T01:40:24.002Z",
+    "status": "active",
+    "content_hash": "8c846b0daea01d2aebbe8b9f6c2cf2bff76966ccea8ae38a5afb6cf7a20a4dd7",
+    "etag": "W/\"f8ef0554da359183fa35007ae5f0bd6072758d57b2720ec6fba471f69dfa100c\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v1.6.x",
+        "hash": "8c846b0daea01d2aebbe8b9f6c2cf2bff76966ccea8ae38a5afb6cf7a20a4dd7",
+        "paths_delta": 44,
+        "recorded_at": "2026-05-19T01:40:24.002Z"
+      }
+    ]
+  },
+  {
+    "id": "github:rafamqrs/camel-quarkus-openapi/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/rafamqrs/camel-quarkus-openapi/main/openapi.json",
+    "title": "User API",
+    "oas_version": "3.0.2",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [],
+    "tags": [
+      "users"
+    ],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:24.900Z",
+    "status": "active",
+    "content_hash": "faade61df14ef6e257d43f3780fa48dd36fb0e0d8fd2f1cae5aa1378d592272c",
+    "etag": "W/\"348d808b6b99c8e947c6f487594de57b9747084dc72a6265c4b2373b73e847ef\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "faade61df14ef6e257d43f3780fa48dd36fb0e0d8fd2f1cae5aa1378d592272c",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:24.900Z"
+      }
+    ]
+  },
+  {
+    "id": "github:ruzaikr/screencloud-takehome/openapi/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/ruzaikr/screencloud-takehome/main/openapi/openapi.json",
+    "title": "SC Order Management System API",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "API for managing products, inventory, warehouses, orders, and reservations.",
+    "servers": [],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:24.592Z",
+    "status": "active",
+    "content_hash": "e83a6eeff46fe757ba3e74ea294998cb02da3add5e4540059d94515e5674fc4b",
+    "etag": "W/\"3049b5adaad4664f826ef77d9bf698c86e521c977360c252707d3f200fdbec04\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "e83a6eeff46fe757ba3e74ea294998cb02da3add5e4540059d94515e5674fc4b",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:24.592Z"
+      }
+    ]
+  },
+  {
+    "id": "github:saascannon/openapi/spec/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/saascannon/openapi/main/spec/openapi.json",
+    "title": "Saascannon API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.1.0",
+    "description": "Manage Saascannon Instance Resources",
+    "servers": [
+      "{protocol}://{tenantName}.{clusterName}.saascannon.app/api"
+    ],
+    "tags": [],
+    "paths_count": 40,
+    "fetched_at": "2026-05-19T01:40:24.645Z",
+    "status": "active",
+    "content_hash": "2c8c7d7910946c1711d922cfd214ba74bd5cda5ce0bff3d51944962c6669b21c",
+    "etag": "W/\"13155b9ef6c74c10148b5426da17fe25f96af4cbdb21e750a55339898715ffe2\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.1.0",
+        "hash": "2c8c7d7910946c1711d922cfd214ba74bd5cda5ce0bff3d51944962c6669b21c",
+        "paths_delta": 40,
+        "recorded_at": "2026-05-19T01:40:24.645Z"
+      }
+    ]
+  },
+  {
+    "id": "github:saber13812002/bot-generator-bale-telegram-laravel-10/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/saber13812002/bot-generator-bale-telegram-laravel-10/main2/swagger.yaml",
+    "title": "Mission Management API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API برای مدیریت ماموریت‌ها، پرامپت‌ها و محتوا\n\nاین API امکان ایجاد ماموریت، اضافه کردن محتوای آموزشی، اختصاص به پرسنل و ارسال نتیجه را فراهم می‌کند.\n",
+    "servers": [
+      "https://your-domain.com/api/api/v1",
+      "http://localhost:8000/api/api/v1"
+    ],
+    "tags": [
+      "Metadata",
+      "Authentication",
+      "Missions"
+    ],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:25.086Z",
+    "status": "active",
+    "content_hash": "ddb95487390751b098bee9bc10a4c01361432f73296a701f36bcd98760cecf2a",
+    "etag": "W/\"7fa560ab2634f81c4813eaef60465525c95324dfacef3b2ddfdb2e2a8271a933\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "ddb95487390751b098bee9bc10a4c01361432f73296a701f36bcd98760cecf2a",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:25.086Z"
+      }
+    ]
+  },
+  {
+    "id": "github:secureailabs/sail-user-portal/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/secureailabs/sail-user-portal/main/openapi.json",
+    "title": "SAIL",
+    "oas_version": "3.0.2",
+    "latest_version": "0.1.0",
+    "description": "All the private and public APIs for the Secure AI Labs",
+    "servers": [],
+    "tags": [],
+    "paths_count": 31,
+    "fetched_at": "2026-05-19T01:40:24.295Z",
+    "status": "active",
+    "content_hash": "3efdcc6cf92ac9ce4571c30f8e0ba70d76b2558f3a3d706314311fce1928bd7f",
+    "etag": "W/\"957f7cebf0b9ef4a6f54da00c4f65fb1dce487d58f7f3b160893ed0cec338b3f\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.1.0",
+        "hash": "3efdcc6cf92ac9ce4571c30f8e0ba70d76b2558f3a3d706314311fce1928bd7f",
+        "paths_delta": 31,
+        "recorded_at": "2026-05-19T01:40:24.295Z"
+      }
+    ]
+  },
+  {
+    "id": "github:shamhub/product-api/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/shamhub/product-api/master/swagger.yaml",
+    "title": "of Product API",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "Documentation for Product API",
+    "servers": [],
+    "tags": [],
+    "paths_count": 2,
+    "fetched_at": "2026-05-19T01:40:25.676Z",
+    "status": "active",
+    "content_hash": "26f9e33676b2de427f8369fa1c11d2b18763c33808e6883f2de8fc8408760039",
+    "etag": "W/\"0689ebaf08e51999c72dfdde867d7e150accd129a29709bf51bf61da7f1857d6\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "26f9e33676b2de427f8369fa1c11d2b18763c33808e6883f2de8fc8408760039",
+        "paths_delta": 2,
+        "recorded_at": "2026-05-19T01:40:25.676Z"
+      }
+    ]
+  },
+  {
+    "id": "github:shiduoyang/tool-swagger-parser-simple/test/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/shiduoyang/tool-swagger-parser-simple/master/test/swagger.yaml",
+    "title": "Swagger Petstore",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "This is a sample server Petstore server.  You can find out more about     Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).      For this sample, you can use the api key `special-key` to test the authorization     filters.",
+    "servers": [
+      "https://petstore.swagger.io/v2",
+      "http://petstore.swagger.io/v2"
+    ],
+    "tags": [
+      "pet",
+      "store",
+      "user"
+    ],
+    "paths_count": 14,
+    "fetched_at": "2026-05-19T01:40:26.288Z",
+    "status": "active",
+    "content_hash": "4d2b45f03dac0fae8e9ec5aa8c87b64b62f30de1cb03bb5458bb6fc23dc5a1df",
+    "etag": "W/\"3e7e8b7bacbbc1f26ba9106216aecb157da85df07fd724e799f7d455c609b154\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "4d2b45f03dac0fae8e9ec5aa8c87b64b62f30de1cb03bb5458bb6fc23dc5a1df",
+        "paths_delta": 14,
+        "recorded_at": "2026-05-19T01:40:26.288Z"
+      }
+    ]
+  },
+  {
+    "id": "github:sk-sohel01/git_actions/trade-processor/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/sk-sohel01/git_actions/main/trade-processor/openapi.yaml",
+    "title": "Position Service - TraderX",
+    "oas_version": "3.0.1",
+    "latest_version": "1.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:22.313Z",
+    "status": "active",
+    "content_hash": "c8b2bf2e40cf17fb3aa9a6bbbfd8336e4b61a07b6e9c237744c3c26014fd21ca",
+    "etag": "W/\"ffedd97cc16891b641774a8ce03ce09c67793ed8dc21f826fd2d6ca061ede9d5\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "c8b2bf2e40cf17fb3aa9a6bbbfd8336e4b61a07b6e9c237744c3c26014fd21ca",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:22.313Z"
+      }
+    ]
+  },
+  {
+    "id": "github:smart-data-models/dataModel.Device/PrivacyObject/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/smart-data-models/dataModel.Device/master/PrivacyObject/swagger.yaml",
+    "title": "PrivacyObject",
+    "oas_version": "3.0.0",
+    "latest_version": "0.0.1",
+    "description": "Information about privacy for an IoT device\n",
+    "servers": [],
+    "tags": [
+      "ngsi-ld"
+    ],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:26.814Z",
+    "status": "active",
+    "content_hash": "02612a9418218e61776b1beedf53a4bd59b94e257279c1db4be976d0a06abd29",
+    "etag": "W/\"d7718a5e4e4df998aecc3539b707c7b27f7641abb14b11615162eccd11d62fee\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.0.1",
+        "hash": "02612a9418218e61776b1beedf53a4bd59b94e257279c1db4be976d0a06abd29",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:26.814Z"
+      }
+    ]
+  },
+  {
+    "id": "github:smart-data-models/dataModel.EnergyCIM/MechLoad1/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/smart-data-models/dataModel.EnergyCIM/master/MechLoad1/swagger.yaml",
+    "title": "MechLoad1",
+    "oas_version": "3.0.0",
+    "latest_version": "0.0.1",
+    "description": "Adapted from CIM data models. Mechanical load model type 1.\n",
+    "servers": [],
+    "tags": [
+      "ngsi-ld"
+    ],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:26.781Z",
+    "status": "active",
+    "content_hash": "617e4b3cd9f0acd46cdcb8a62ea0f6429dc6cc0de35e9dedd166a8ab71ae7043",
+    "etag": "W/\"8dab3e0659798dd4d9e0726c4c2759b4b04bb6d0507b5ebc0eeb2319ce68299b\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "0.0.1",
+        "hash": "617e4b3cd9f0acd46cdcb8a62ea0f6429dc6cc0de35e9dedd166a8ab71ae7043",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:26.781Z"
+      }
+    ]
+  },
+  {
+    "id": "github:smyachenkov/nightscout-go-client/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/smyachenkov/nightscout-go-client/main/swagger.yaml",
+    "title": "Nightscout API",
+    "oas_version": "3.0.0",
+    "latest_version": "14.2.3",
+    "description": "Own your DData with the Nightscout API",
+    "servers": [
+      "/api/v1"
+    ],
+    "tags": [],
+    "paths_count": 12,
+    "fetched_at": "2026-05-19T01:40:25.231Z",
+    "status": "active",
+    "content_hash": "09de41f0dc5ecdcf44cfc2acf793292038ce3e080a4f968535412654e0a4d6f5",
+    "etag": "W/\"3d96af83ad0dc45807b3a3dabcb6eef8633e56014d2f0abb35070ad35b356129\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "14.2.3",
+        "hash": "09de41f0dc5ecdcf44cfc2acf793292038ce3e080a4f968535412654e0a4d6f5",
+        "paths_delta": 12,
+        "recorded_at": "2026-05-19T01:40:25.231Z"
+      }
+    ]
+  },
+  {
+    "id": "github:soos3d/chatgpt-plugin-development-quickstart-express/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/soos3d/chatgpt-plugin-development-quickstart-express/main/openapi.yaml",
+    "title": "Airports API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "Interact with the airport API",
+    "servers": [
+      "http://localhost:3333"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:21.680Z",
+    "status": "active",
+    "content_hash": "d26ca056a7bcd54fde6af0c406fa3d077c613b59f5e92ce684c15f4829724d51",
+    "etag": "W/\"7cb9e9aa2749073ff2a44998ce5fe319e4a27af5470f8bc2bd277a6f52c28dad\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "d26ca056a7bcd54fde6af0c406fa3d077c613b59f5e92ce684c15f4829724d51",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:21.680Z"
+      }
+    ]
+  },
+  {
+    "id": "github:srsantosdev/docs/api-reference/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/srsantosdev/docs/main/api-reference/openapi.json",
+    "title": "API Scanify",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API do Scanify para extração de dados de documentos. Esta API permite que os usuários façam upload de arquivos para extração de dados de documentos.",
+    "servers": [
+      "https://api.scanify.com.br"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "fetched_at": "2026-05-19T01:40:24.801Z",
+    "status": "active",
+    "content_hash": "5cb1d8cea161b8b84ca90cceda1d0dac26290f32e9293475e7b2a8ba9591b5bb",
+    "etag": "W/\"4b3e5fafa7b31f0d753e674aab51b60a8c6aba9a5e6e8b7088089b3519c51a61\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "5cb1d8cea161b8b84ca90cceda1d0dac26290f32e9293475e7b2a8ba9591b5bb",
+        "paths_delta": 2,
+        "recorded_at": "2026-05-19T01:40:24.801Z"
+      }
+    ]
+  },
+  {
+    "id": "github:stripe/openapi/openapi/spec3.yaml",
+    "source_url": "https://raw.githubusercontent.com/stripe/openapi/master/openapi/spec3.yaml",
+    "title": "Stripe API",
+    "oas_version": "3.0.0",
+    "latest_version": "2026-04-22.dahlia",
+    "description": "The Stripe REST API. Please see https://stripe.com/docs/api for more details.",
+    "servers": [
+      "https://api.stripe.com/"
+    ],
+    "tags": [],
+    "paths_count": 414,
+    "fetched_at": "2026-05-19T01:40:23.600Z",
+    "status": "active",
+    "content_hash": "4d801316f5789bc0ad4bb0f4dccfe9d672e011cf44aa888a60a285b90fd96c76",
+    "etag": "W/\"55219618b41594570c0300eb785a58903fb5475ad4a607e0f77d0eaca492a346\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2026-04-22.dahlia",
+        "hash": "4d801316f5789bc0ad4bb0f4dccfe9d672e011cf44aa888a60a285b90fd96c76",
+        "paths_delta": 414,
+        "recorded_at": "2026-05-19T01:40:23.600Z"
+      }
+    ]
+  },
+  {
+    "id": "github:suarezrominajulieta/Evo-tesis/EvoMaster-master/EvoMaster-master/core-it/src/test/resources/APIs_guru/polygon.io/1.0.0/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/suarezrominajulieta/Evo-tesis/main/EvoMaster-master/EvoMaster-master/core-it/src/test/resources/APIs_guru/polygon.io/1.0.0/swagger.yaml",
+    "title": "Polygon",
+    "oas_version": "2.0",
+    "latest_version": "1.0.0",
+    "description": "The future of fintech.",
+    "servers": [
+      "https://api.polygon.io/"
+    ],
+    "tags": [],
+    "paths_count": 10,
+    "fetched_at": "2026-05-19T01:40:26.197Z",
+    "status": "active",
+    "content_hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
+    "etag": "W/\"764edb36d17edd33b5a2568a4c8f6da7db8f11d00f2f92b08e50cb75d0780082\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "588a87efdb88730d0bec63a76b8fc54503e54dd05e460a3c30040a1f6490e4d9",
+        "paths_delta": 10,
+        "recorded_at": "2026-05-19T01:40:26.197Z"
+      }
+    ]
+  },
+  {
+    "id": "github:sunkaimr/data-loom/docs/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/sunkaimr/data-loom/main/docs/swagger.yaml",
+    "title": "data-loom API",
+    "oas_version": "2.0",
+    "latest_version": "v1.0",
+    "description": "data-loom.",
+    "servers": [
+      "http://localhost:8080/data-loom/api/v1",
+      "https://localhost:8080/data-loom/api/v1"
+    ],
+    "tags": [],
+    "paths_count": 38,
+    "fetched_at": "2026-05-19T01:40:26.948Z",
+    "status": "active",
+    "content_hash": "c11ab888dc2ec67512d4aad819eab452f1f8e5389f2dc4583e04e3179dbea89d",
+    "etag": "W/\"dc1a7ef41a698edb5b1f38e6497f9be01094f1148cd6eb5dd83c3f1bf528b130\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "v1.0",
+        "hash": "c11ab888dc2ec67512d4aad819eab452f1f8e5389f2dc4583e04e3179dbea89d",
+        "paths_delta": 38,
+        "recorded_at": "2026-05-19T01:40:26.948Z"
+      }
+    ]
+  },
+  {
+    "id": "github:supersede-project/replan_optimizer/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/supersede-project/replan_optimizer/master/swagger.yaml",
+    "title": "SUPERSEDE ReleasePlanner. Wrapper of Valentin's Implementation",
+    "oas_version": "2.0",
+    "latest_version": "1.1.0",
+    "description": "",
+    "servers": [
+      "http://localhost/api/v1"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:25.737Z",
+    "status": "active",
+    "content_hash": "378dea6934aa5ab2c2162e5b92820e73485bbadfbfa8cb29ada4d4093528895d",
+    "etag": "W/\"f4f5e915a795d474cb1379a345148d787e7c68983487b12d47bd3e60f39fec19\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.1.0",
+        "hash": "378dea6934aa5ab2c2162e5b92820e73485bbadfbfa8cb29ada4d4093528895d",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:25.737Z"
+      }
+    ]
+  },
+  {
+    "id": "github:tanasecosminromeo/sf6-env/public/docs/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/tanasecosminromeo/sf6-env/main/public/docs/openapi.yaml",
+    "title": "Symfony 6 RESTApi",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "Example to show how OpenAPI works in SF",
+    "servers": [],
+    "tags": [
+      "Jobs",
+      "Message",
+      "Users",
+      "Auth"
+    ],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:23.236Z",
+    "status": "active",
+    "content_hash": "f147d877a05408141f7f7825d9655965119cb0dba1d9f76a5b5a9114baa539b2",
+    "etag": "W/\"31def190bd58c0fe71e8e89e95487f5c7e48a92f1f856c586925b5fc5f4666ed\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "f147d877a05408141f7f7825d9655965119cb0dba1d9f76a5b5a9114baa539b2",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:23.236Z"
+      }
+    ]
+  },
+  {
+    "id": "github:tenlastic/open-platform/nodejs/applications/namespace-api/src/web-server/routes/records/update/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/tenlastic/open-platform/master/nodejs/applications/namespace-api/src/web-server/routes/records/update/swagger.yaml",
+    "title": "",
+    "oas_version": "",
+    "latest_version": "",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "fetched_at": "2026-05-19T01:40:26.901Z",
+    "status": "invalid",
+    "content_hash": "a182160f82e9fa6c5986f04d9f2f6f0dee67b08a1248a481411c2fd8d7c0d112",
+    "etag": "W/\"0c1a659f488d43c0ac6222d7a35cb9525142da241c2c17ebf4c946d353f35f00\"",
+    "last_modified": null,
+    "history": []
+  },
+  {
+    "id": "github:thalles-victor/maik-bank-backend/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/thalles-victor/maik-bank-backend/master/swagger.yaml",
+    "title": "Swagger Petstore - OpenAPI 3.0",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "A MaikBank é um banco digital criado para facilitar a vidas das pessoas lidando com transações bancárias de forma rápida seguras.\nCada dia que passa, o mundo fica mais digital, e por isso nasce a Maik para auxiliar no desenvolvimento da sociedade.",
+    "servers": [
+      "http://localhost:3000"
+    ],
+    "tags": [
+      "auth",
+      "account",
+      "transactions"
+    ],
+    "paths_count": 11,
+    "fetched_at": "2026-05-19T01:40:25.206Z",
+    "status": "active",
+    "content_hash": "66c3fe05c36810f7ec1dfc72590fb0d7814d5c83f03723e6c8bac8dfbdfa3b45",
+    "etag": "W/\"f174211b00903083c11a6c36303cefd3d69ed2c95bd3bc153fe2fffd20dbaa67\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "66c3fe05c36810f7ec1dfc72590fb0d7814d5c83f03723e6c8bac8dfbdfa3b45",
+        "paths_delta": 11,
+        "recorded_at": "2026-05-19T01:40:25.206Z"
+      }
+    ]
+  },
+  {
+    "id": "github:tomhealey-icma/traderXcdm/trade-processor/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/tomhealey-icma/traderXcdm/main/trade-processor/openapi.yaml",
+    "title": "Position Service - TraderX",
+    "oas_version": "3.0.1",
+    "latest_version": "1.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:22.331Z",
+    "status": "active",
+    "content_hash": "c8b2bf2e40cf17fb3aa9a6bbbfd8336e4b61a07b6e9c237744c3c26014fd21ca",
+    "etag": "W/\"ffedd97cc16891b641774a8ce03ce09c67793ed8dc21f826fd2d6ca061ede9d5\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "c8b2bf2e40cf17fb3aa9a6bbbfd8336e4b61a07b6e9c237744c3c26014fd21ca",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:22.331Z"
+      }
+    ]
+  },
+  {
+    "id": "github:trivedi-khushi/openapi-sample-library/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/trivedi-khushi/openapi-sample-library/main/openapi.yaml",
+    "title": "OpenAPI Sample Library",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "Documentation for multiple APIs (GitHub, Jira, Notion, Slack, Stripe). This specification is split into multiple files for maintainability.\n",
+    "servers": [
+      "https://api.github.com",
+      "https://api.atlassian.com",
+      "https://api.notion.com",
+      "https://slack.com/api",
+      "https://api.stripe.com"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:22.643Z",
+    "status": "active",
+    "content_hash": "f92c67a468021b6dd5d5c60930c2df2d5c3583fe196e885d0a20c036fee1004c",
+    "etag": "W/\"526dbc3e313935ab983da5cd67cdb50567aaadc1c834449918ae4409de307abf\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "f92c67a468021b6dd5d5c60930c2df2d5c3583fe196e885d0a20c036fee1004c",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:22.643Z"
+      }
+    ]
+  },
+  {
+    "id": "github:tshego992/flowDashboardClone/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/tshego992/flowDashboardClone/main/swagger.yaml",
+    "title": "Flow Dashboard",
+    "oas_version": "2.0",
+    "latest_version": "1.2",
+    "description": "Flow Dashboard APIs\n[http://flowdash.co](http://flowdash.co)\n",
+    "servers": [
+      "https://flowdash.co/api"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "fetched_at": "2026-05-19T01:40:26.202Z",
+    "status": "active",
+    "content_hash": "490f048c4e6569de07060f90302c6e4120bb62cbb9440563191ecc1b28476d8a",
+    "etag": "W/\"7171c586f06e2a8deb17f6a8bc8f9e5d6fdd54db5f32363f7f84ab4ea5eb375d\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.2",
+        "hash": "490f048c4e6569de07060f90302c6e4120bb62cbb9440563191ecc1b28476d8a",
+        "paths_delta": 2,
+        "recorded_at": "2026-05-19T01:40:26.202Z"
+      }
+    ]
+  },
+  {
+    "id": "github:va5ja/codingtask/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/va5ja/codingtask/main/swagger.yaml",
+    "title": "Coding Task",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0",
+    "description": "An API that deals with nodes/edges of a graph and retrieves shortest paths",
+    "servers": [
+      "http://localhost:8001"
+    ],
+    "tags": [
+      "graphs",
+      "nodes",
+      "edges",
+      "shortest-path"
+    ],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:25.866Z",
+    "status": "active",
+    "content_hash": "017bd5257b306226e6daddcf894d4a5ed0c326e3efc3a6ac24e9e76f94ce4f01",
+    "etag": "W/\"a0b3521600fadc9744d74758dd9bf7de88d60dbc1c909e0ac5b4b69b6f1a2721\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "017bd5257b306226e6daddcf894d4a5ed0c326e3efc3a6ac24e9e76f94ce4f01",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:25.866Z"
+      }
+    ]
+  },
+  {
+    "id": "github:valdev5/ArgentBank/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/valdev5/ArgentBank/master/swagger.yaml",
+    "title": "Bank Argent API documentation",
+    "oas_version": "2.0",
+    "latest_version": "2.0.0",
+    "description": "Contains all available API endpoints in this codebase",
+    "servers": [
+      "http://localhost:3001/api/v2"
+    ],
+    "tags": [],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:26.474Z",
+    "status": "active",
+    "content_hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+    "etag": "W/\"19064384009402f7456f4913be2befd91c29cd72588864f2445764596735aa2c\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "2.0.0",
+        "hash": "111f48345c23659c9f0117e89a6e622ea5544a6c17ba48fb4ddc9f3470c185e8",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:26.474Z"
+      }
+    ]
+  },
+  {
+    "id": "github:valdirsb/artemis/AppExample/meuApp/docs/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/valdirsb/artemis/main/AppExample/meuApp/docs/swagger.yaml",
+    "title": "Artemis API",
+    "oas_version": "2.0",
+    "latest_version": "1.0",
+    "description": "API for Artemis - Clean Architecture Framework in Go\nModular framework with Clean Architecture, Hexagonal Architecture, DDD and CQRS patterns",
+    "servers": [
+      "http://localhost:8080/",
+      "https://localhost:8080/"
+    ],
+    "tags": [
+      "users",
+      "products",
+      "orders"
+    ],
+    "paths_count": 11,
+    "fetched_at": "2026-05-19T01:40:26.299Z",
+    "status": "active",
+    "content_hash": "adf37f7ef3e142fc15b6f018b10b85c9f3772c050e8bbf04f5a1ec30a09839b0",
+    "etag": "W/\"70f6c0068df8dec217c9a8daa46f1edfc02553528bb82bb90c538c4e170b6dd4\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "adf37f7ef3e142fc15b6f018b10b85c9f3772c050e8bbf04f5a1ec30a09839b0",
+        "paths_delta": 11,
+        "recorded_at": "2026-05-19T01:40:26.299Z"
+      }
+    ]
+  },
+  {
+    "id": "github:vinit-agr/vinit-website/public/APIs/ip2location.io/1.0/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/vinit-agr/vinit-website/main/public/APIs/ip2location.io/1.0/openapi.yaml",
+    "title": "IP2Location.io IP Geolocation API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0",
+    "description": "IP2Location.io IP Geolocation API provides RESTful API to obtain visitors’ geolocation information such as country, region, district, city, latitude & longitude, ZIP code, time zone, ASN, ISP, domain, net speed, IDD code, area code, weather station data, MNC, MCC, mobile brand, elevation, usage type",
+    "servers": [
+      "https://api.ip2location.io"
+    ],
+    "tags": [],
+    "paths_count": 1,
+    "fetched_at": "2026-05-19T01:40:22.031Z",
+    "status": "active",
+    "content_hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+    "etag": "W/\"3870d7b54ae8dcd7d580a1d42b06704cf05c9e4d5bf7413e7eacf377f568b9dd\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "678b9bdad00e589169d27f634c689d3b075f701fa7b0a26d9a7290087de9adbf",
+        "paths_delta": 1,
+        "recorded_at": "2026-05-19T01:40:22.031Z"
+      }
+    ]
+  },
+  {
+    "id": "github:vooon/esp-ota-server/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/vooon/esp-ota-server/master/openapi.yaml",
+    "title": "",
+    "oas_version": "",
+    "latest_version": "",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 0,
+    "fetched_at": "2026-05-19T01:40:23.232Z",
+    "status": "invalid",
+    "content_hash": "06a17c59edb5ef06d9c0d63ab6317225924cc776fa37bfe3a069dbe74f0ff9e6",
+    "etag": "W/\"cd17889b7e5e6f5236c1bad9d7136e997aebed57c980327e0c5d6a2b8ae2630f\"",
+    "last_modified": null,
+    "history": []
+  },
+  {
+    "id": "github:weissye/BpTestTell/packs/suts/pharmacy/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/weissye/BpTestTell/main/packs/suts/pharmacy/openapi.json",
+    "title": "pharmacy SUT",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 6,
+    "fetched_at": "2026-05-19T01:40:23.915Z",
+    "status": "active",
+    "content_hash": "e0a063a870b387a838c2589a74c21bad1668557470d0d444244fe47bc9790405",
+    "etag": "W/\"383f48ffe5a66443418884d4932d363d0025cf46341f07a91dad3085b1665af3\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "e0a063a870b387a838c2589a74c21bad1668557470d0d444244fe47bc9790405",
+        "paths_delta": 6,
+        "recorded_at": "2026-05-19T01:40:23.915Z"
+      }
+    ]
+  },
+  {
+    "id": "github:weissye/BpTestTell/repo_saved/packs/7_suts/library/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/weissye/BpTestTell/main/repo_saved/packs/7_suts/library/openapi.json",
+    "title": "Library SUT (Ground-Truth)",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 8,
+    "fetched_at": "2026-05-19T01:40:23.924Z",
+    "status": "active",
+    "content_hash": "7f9cf7302f24ceaa33914613ea026a2e82bc16bb4d7ad6c1394b8a60eac22e17",
+    "etag": "W/\"a62c5fcbd9368c10aa8fdf841ce3853757e577b9d073417e09fa2d1beb0f84be\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "7f9cf7302f24ceaa33914613ea026a2e82bc16bb4d7ad6c1394b8a60eac22e17",
+        "paths_delta": 8,
+        "recorded_at": "2026-05-19T01:40:23.924Z"
+      }
+    ]
+  },
+  {
+    "id": "github:weissye/BpTestTell/repo_saved/packs/suts/pharmacy/openapi.json",
+    "source_url": "https://raw.githubusercontent.com/weissye/BpTestTell/main/repo_saved/packs/suts/pharmacy/openapi.json",
+    "title": "pharmacy SUT",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "",
+    "servers": [],
+    "tags": [],
+    "paths_count": 6,
+    "fetched_at": "2026-05-19T01:40:23.908Z",
+    "status": "active",
+    "content_hash": "e0a063a870b387a838c2589a74c21bad1668557470d0d444244fe47bc9790405",
+    "etag": "W/\"383f48ffe5a66443418884d4932d363d0025cf46341f07a91dad3085b1665af3\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "e0a063a870b387a838c2589a74c21bad1668557470d0d444244fe47bc9790405",
+        "paths_delta": 6,
+        "recorded_at": "2026-05-19T01:40:23.908Z"
+      }
+    ]
+  },
+  {
+    "id": "github:wthz-dev/backend-railway/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/wthz-dev/backend-railway/main/swagger.yaml",
+    "title": "My Blog API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "API for My Blog",
+    "servers": [
+      "http://localhost:3000"
+    ],
+    "tags": [],
+    "paths_count": 13,
+    "fetched_at": "2026-05-19T01:40:25.297Z",
+    "status": "active",
+    "content_hash": "9f021c057a010745c5aea501952795606c81161aea3fc18d2485c723056e9967",
+    "etag": "W/\"b50e424d49a208d604f073b4dd84eff566d64c0f3e3e022291ed199522286bcf\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "9f021c057a010745c5aea501952795606c81161aea3fc18d2485c723056e9967",
+        "paths_delta": 13,
+        "recorded_at": "2026-05-19T01:40:25.297Z"
+      }
+    ]
+  },
+  {
+    "id": "github:wujunwei928/parse-video/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/wujunwei928/parse-video/main/api/openapi.yaml",
+    "title": "parse-video API",
+    "oas_version": "3.0.3",
+    "latest_version": "1.0.0",
+    "description": "视频解析服务，支持 20+ 中国社交平台去水印解析",
+    "servers": [
+      "http://localhost:8080"
+    ],
+    "tags": [],
+    "paths_count": 4,
+    "fetched_at": "2026-05-19T01:40:22.603Z",
+    "status": "active",
+    "content_hash": "62a1f6dc723e9d8a48d839f6432e8626e53eba338894f7c4d575c184938116a3",
+    "etag": "W/\"edeca086a19f6f2d508599d17dc643f322255f3ffa1c122185df976f5bbf2449\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "62a1f6dc723e9d8a48d839f6432e8626e53eba338894f7c4d575c184938116a3",
+        "paths_delta": 4,
+        "recorded_at": "2026-05-19T01:40:22.603Z"
+      }
+    ]
+  },
+  {
+    "id": "github:yezz123/CoveAPI/dump/swagger.yaml",
+    "source_url": "https://raw.githubusercontent.com/yezz123/CoveAPI/main/dump/swagger.yaml",
+    "title": "CoveAPI Example Project",
+    "oas_version": "2.0",
+    "latest_version": "1.0",
+    "description": "This is a sample project for the coveapi test tool",
+    "servers": [
+      "https://localhost:8080/"
+    ],
+    "tags": [],
+    "paths_count": 3,
+    "fetched_at": "2026-05-19T01:40:26.207Z",
+    "status": "active",
+    "content_hash": "a4edabc19b57ea4443783a959f97b48c44b611f461116661ca83638f8ede6dc9",
+    "etag": "W/\"79a315bf74453e7e4dfbd39129fb15df9e77ca64dfd0cbe346bc9ae16607b143\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0",
+        "hash": "a4edabc19b57ea4443783a959f97b48c44b611f461116661ca83638f8ede6dc9",
+        "paths_delta": 3,
+        "recorded_at": "2026-05-19T01:40:26.207Z"
+      }
+    ]
+  },
+  {
+    "id": "github:yoonhoGo/ts5deco/packages/express-controller/api/openapi.yaml",
+    "source_url": "https://raw.githubusercontent.com/yoonhoGo/ts5deco/main/packages/express-controller/api/openapi.yaml",
+    "title": "User API",
+    "oas_version": "3.0.0",
+    "latest_version": "1.0.0",
+    "description": "Example API for user management",
+    "servers": [
+      "http://localhost:3000/api"
+    ],
+    "tags": [],
+    "paths_count": 2,
+    "fetched_at": "2026-05-19T01:40:23.228Z",
+    "status": "active",
+    "content_hash": "582734c3e8bf60f6f44c387a41eebfc2d68d26ed65a089c072b2b6d5923ade8b",
+    "etag": "W/\"7981bc96e65e004036bd05385a2b1e81c49c658ce851fa3ec23effa2f8276046\"",
+    "last_modified": null,
+    "history": [
+      {
+        "version": "1.0.0",
+        "hash": "582734c3e8bf60f6f44c387a41eebfc2d68d26ed65a089c072b2b6d5923ade8b",
+        "paths_delta": 2,
+        "recorded_at": "2026-05-19T01:40:23.228Z"
+      }
+    ]
+  }
+]
