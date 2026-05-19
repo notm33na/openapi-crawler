@@ -527,9 +527,11 @@ export async function crawl(options = {}) {
       fetchMs = Date.now() - fetchT0;
       log('warn', 'fetch.failed', { run_id: runId, id, error: err.message });
       if (existingEntry) {
+        const failures = (existingEntry.consecutive_failures ?? 0) + 1;
         mergeEntry(catalog, {
           ...existingEntry,
-          status: 'stale',
+          consecutive_failures: failures,
+          status: failures >= 3 ? 'stale' : existingEntry.status,
           fetched_at: new Date().toISOString(),
         });
       }

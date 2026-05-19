@@ -99,6 +99,7 @@ export function buildCatalogEntry(id, sourceUrl, parsedSpec, hash, etag, existin
     paths_count: parsedSpec.paths_count,
     fetched_at: now,
     status: 'active',
+    consecutive_failures: 0,
     content_hash: hash,
     etag: etag ?? null,
     last_modified: lastModified ?? null,

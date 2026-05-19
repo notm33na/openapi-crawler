@@ -529,11 +529,10 @@ describe('crawl', () => {
     expect(cache['acme/petstore'].resolvedAt).toBeDefined();
   });
 
-  it('marks an existing catalog entry as stale when the fetch fails', async () => {
+  it('increments consecutive_failures and keeps status active after 1 failure', async () => {
     // First crawl: creates an active entry
     await crawl({ catalogPath, queries: ['filename:openapi.yaml'], limit: 10, seeds: [] });
 
-    // Second crawl: fetch fails for the same spec
     jest.clearAllMocks();
     repoDefaultBranchCache.clear();
     defaultAxiosMock();
@@ -544,7 +543,27 @@ describe('crawl', () => {
     expect(stats.failed).toBe(1);
     const written = JSON.parse(await fs.readFile(catalogPath, 'utf8'));
     expect(written).toHaveLength(1);
+    expect(written[0].status).toBe('active');
+    expect(written[0].consecutive_failures).toBe(1);
+  });
+
+  it('marks an existing catalog entry as stale after 3 consecutive failures', async () => {
+    // First crawl: creates an active entry
+    await crawl({ catalogPath, queries: ['filename:openapi.yaml'], limit: 10, seeds: [] });
+
+    // Run 3 more crawls, each failing
+    for (let i = 0; i < 3; i++) {
+      jest.clearAllMocks();
+      repoDefaultBranchCache.clear();
+      defaultAxiosMock();
+      fetchWithETag.mockRejectedValue(new Error('network timeout'));
+      await crawl({ catalogPath, queries: ['filename:openapi.yaml'], limit: 10, seeds: [] });
+    }
+
+    const written = JSON.parse(await fs.readFile(catalogPath, 'utf8'));
+    expect(written).toHaveLength(1);
     expect(written[0].status).toBe('stale');
+    expect(written[0].consecutive_failures).toBe(3);
   });
 
   it('does not write a stale entry for a brand-new spec that immediately fails', async () => {
