@@ -2,7 +2,7 @@
 
 Discovers OpenAPI and Swagger specs hosted on GitHub, tracks changes over time, and maintains a local catalog with version history. Built with Node.js ESM, no database required.
 ---
-##DEMO
+## demo
 
 [Watch on Loom](https://www.loom.com/share/50f38f55a9aa4345bcb9f69161f7c3eb)
 
